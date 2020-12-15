@@ -3,19 +3,19 @@
 #include <string.h>
 
 /* Constants for indexs. */
-const int INDEX_ZIP_CODE_CITY               = 0;
-const int INDEX_NAME_CITY                   = 1;
-const int INDEX_NB_NEIGHBOR_CITY            = 2;
-const int INDEX_ADJACENTS_ZIP_CODE_CITITES  = 3;
-const int INDEX_ADJACENTS_NAME_CITITES      = 4;
-const int INDEX_ADJACENTS_DEGREE_CITITES    = 5;
+const int INDEX_ZIP_CODE_CITY                 = 0;
+const int INDEX_NAME_CITY                     = 1;
+const int INDEX_NB_NEIGHBOR_CITY              = 2;
+const int INDEX_ADJACENTS_ZIP_CODE_CITITES    = 3;
+const int INDEX_ADJACENTS_NAME_CITITES        = 4;
+const int INDEX_ADJACENTS_DISTANCE_CITITES    = 5;
 
 /* Structure of an adjacent city. */
 typedef struct AdjacentCity
 {
   char * name;
   char * zipCode;
-  int adjacenceNb;
+  double distance;
 } AdjacentCity;
 
 /* Structure of a city. */
@@ -66,8 +66,8 @@ void read_file(char * filename) {
         printf("Adjacent name cities = %s\n", token);
       }
 
-      else if (columnCount == INDEX_ADJACENTS_DEGREE_CITITES) {
-        printf("Adjacent degree cities = %s\n", token);
+      else if (columnCount == INDEX_ADJACENTS_DISTANCE_CITITES) {
+        printf("Adjacent distance cities = %s\n", token);
       }
 
       else {
@@ -87,7 +87,7 @@ void read_file(char * filename) {
 
 /* Create an AjdacentCity. */
 AdjacentCity * create_adjacent_city(char * name, char * zipCode,
-  int adjacenceNb) {
+  double distance) {
     AdjacentCity * city;
     city = malloc(sizeof(struct AdjacentCity));
     if (city == NULL) {
@@ -95,21 +95,12 @@ AdjacentCity * create_adjacent_city(char * name, char * zipCode,
     }
     city->name = name;
     city->zipCode = zipCode;
-    city->adjacenceNb = adjacenceNb;
+    city->distance = distance;
     return city;
 }
 
 int main(void) {
   printf("Welcome to The travelling salesman's problem!\n");
-
-  // Create an adjacent city
-  AdjacentCity * adjacentCity = create_adjacent_city("Sevran", "93270", 4);
-
-  printf("AjdacentCity - Name : %s, ZipCode : %s, AdjacentCityNumber: %i\n",
-    adjacentCity->name,
-    adjacentCity->zipCode,
-    adjacentCity->adjacenceNb
-  );
 
   read_file("communes_adjacentes_91.csv");
 
