@@ -22,7 +22,7 @@ typedef struct AdjacentCity
 typedef struct City
 {
   char * name;
-  char zipCode[5];
+  char * zipCode;
   int nbNeighbor;
   AdjacentCity ** adjacentCities;
 } City;
@@ -36,38 +36,43 @@ void read_file(char * filename) {
     exit(1);
   }
 
-  char line[200];
+  char line[1000];
   int lineCount = 0;
   while (fgets(line, sizeof(line), file)) {
     char *token;
-    //printf("Line : %s\n",line);
+
     token = strtok(line, ",");
+
+    City *city = malloc(sizeof(struct City));
+    char *eptr;
 
     int columnCount = 0;
     while (token != NULL) {
-
       if (columnCount == INDEX_ZIP_CODE_CITY) {
-        printf("Zipcode = %s\n", token);
+        //printf("Zipcode = %s\n", token);
+        city->zipCode = token;
       }
 
       else if (columnCount == INDEX_NAME_CITY) {
-        printf("Name = %s\n", token);
+        //printf("Name = %s\n", token);
+        city->name = token;
       }
 
       else if (columnCount == INDEX_NB_NEIGHBOR_CITY) {
-        printf("Number of neighbor(s) = %s\n", token);
+        //printf("Number of neighbor(s) = %s\n", token);
+        city->nbNeighbor = atoi(token);
       }
 
       else if (columnCount == INDEX_ADJACENTS_ZIP_CODE_CITITES) {
-        printf("Adjacent zipcode cities = %s\n", token);
+        //printf("Adjacent zipcode cities = %s\n", token);
       }
 
       else if (columnCount == INDEX_ADJACENTS_NAME_CITITES) {
-        printf("Adjacent name cities = %s\n", token);
+        //printf("Adjacent name cities = %s\n", token);
       }
 
       else if (columnCount == INDEX_ADJACENTS_DISTANCE_CITITES) {
-        printf("Adjacent distance cities = %s\n", token);
+        //printf("Adjacent distance cities = %s\n", token);
       }
 
       else {
@@ -77,8 +82,9 @@ void read_file(char * filename) {
       token = strtok(NULL, ",");
       columnCount++;
     }
+    printf("City = %s, Zipcode = %s, Nb Neighbor = %i \n", city->name, city->zipCode, city->nbNeighbor);
 
-    printf("\n");
+    //printf("\n");
     lineCount++;
   }
 
@@ -97,6 +103,20 @@ AdjacentCity * create_adjacent_city(char * name, char * zipCode,
     city->zipCode = zipCode;
     city->distance = distance;
     return city;
+}
+
+/* Create a City. */
+City * create_city(char * name, char * zipCode, int nbNeighbor) {
+  City * city;
+  city = malloc(sizeof(struct City));
+  if (city == NULL) {
+    exit(127);
+  }
+
+  city->name = name;
+  city->zipCode = zipCode;
+  city->nbNeighbor = nbNeighbor;
+  return city;
 }
 
 int main(void) {

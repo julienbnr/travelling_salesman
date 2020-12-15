@@ -1,196 +1,196 @@
-91001,Abbéville-la-Rivière,8,91374|91075|91526|45263|45310|91022|91544|91240,Marolles-en-Beauce|Bois-Herpin|Roinvilliers|Rouvres-Saint-Jean|Sermaises|Arrancourt|Saint-Cyr-la-Rivière|Fontaine-la-Rivière,5.6697|6.3489|6.1413|5.9996|7.477|0.5955|2.7359|2.2981
-91016,Angerville,8,91414|91390|45015|45005|28319|28197|28183|91511,Monnerville|Méréville|Autruy-sur-Juine|Andonville|Rouvray-Saint-Denis|Intréville|Gommerville|Pussay,265.368|604.7963|275.222|271.3821|272.0805|271.3628|68.1107|261.4154
-91017,Angervilliers,6,91249|91634|91630|91546|78349|78087,Forges-les-Bains|Vaugrigneuse|Le Val-Saint-Germain|Saint-Cyr-sous-Dourdan|Longvilliers|Bonnelles,6.7737|4.8441|3.79|4.0218|280.1595|3.8962
-91021,Arpajon,5,91552|91457|91041|91207|91461,Saint-Germain-lès-Arpajon|La Norville|Avrainville|Égly|Ollainville,2.0809|2.3078|394.6497|3.6098|334.4297
-91022,Arrancourt,5,91001|45310|45246|91222|91544,Abbéville-la-Rivière|Sermaises|Pannecières|Estouches|Saint-Cyr-la-Rivière,0.5955|8.0741|13.4396|6.4696|2.3561
-91027,Athis-Mons,7,94077|94001|91657|91201|91326|91589|91479,Villeneuve-le-Roi|Ablon-sur-Seine|Vigneux-sur-Seine|Draveil|Juvisy-sur-Orge|Savigny-sur-Orge|Paray-Vieille-Poste,4.6768|5.3301|10.1389|9.0606|3.7449|4.9037|2.5894
-91035,Authon-la-Plaine,6,91175|91519|91495|91547|28169|91145,Corbreuse|Richarville|Plessis-Saint-Benoist|Saint-Escobille|Garancières-en-Beauce|Chatignonville,7.3096|4.9793|4.9391|2.8276|4.7524|4.4176
-91037,Auvernaux,5,77407|91441|91135|91159|91179,Saint-Fargeau-Ponthierry|Nainville-les-Roches|Champcueil|Chevannes|Le Coudray-Montceaux,3.5727|2.6924|6.6788|276.8071|4.6558
-91038,Auvers-Saint-Georges,6,91318|91671|91100|91433|91226|91132,Janville-sur-Juine|Villeneuve-sur-Auvers|Bouville|Morigny-Champigny|Étréchy|Chamarande,4.5206|5.2899|197.6564|6.4663|170.6275|3.0851
-91041,Avrainville,8,91021|91457|91292|91156|91330|91619|91085|91207,Arpajon|La Norville|Guibeville|Cheptainville|Lardy|Torfou|Boissy-sous-Saint-Yon|Égly,394.7399|395.168|395.0264|395.6878|399.2412|747.4164|399.4907|397.0976
-91044,Ballainvilliers,6,91345|91216|91685|91347|91665|91587,Longjumeau|Épinay-sur-Orge|Villiers-sur-Orge|Longpont-sur-Orge|La Ville-du-Bois|Saulx-les-Chartreux,3.4295|3.209|3.0449|7.0232|3.1044|4.3839
-91045,Ballancourt-sur-Essonne,6,91244|91159|91135|91047|91315|91649,Fontenay-le-Vicomte|Chevannes|Champcueil|Baulne|Itteville|Vert-le-Petit,2.9226|286.217|6.6981|4.1956|5.0549|4.0443
-91047,Baulne,7,91045|91135|91412|91654|91232|91129|91315,Ballancourt-sur-Essonne|Champcueil|Mondeville|Videlles|La Ferté-Alais|Cerny|Itteville,4.3066|10.3175|283.2494|7.3418|1.9055|5.0759|4.0845
-91064,Bièvres,8,92023|92019|91645|91312|91635|91534|78322|78640,Clamart|Châtenay-Malabry|Verrières-le-Buisson|Igny|Vauhallan|Saclay|Jouy-en-Josas|Vélizy-Villacoublay,188.636|191.8837|194.0048|361.3541|200.6691|0.0|203.0735|200.373
-91067,Blandy,7,91399|91112|45191|45012|45310|45263|91526,Mespuits|Brouy|Le Malesherbois|Audeville|Sermaises|Rouvres-Saint-Jean|Roinvilliers,51.6873|56.3802|629.4081|62.9044|91.1677|58.791|53.6813
-91069,Boigneville,5,91121|77328|45191|91137|91507,Buno-Bonnevaux|Nanteau-sur-Essonne|Le Malesherbois|Champmotteux|Prunay-sur-Essonne,3.6596|6.299|597.6815|5.7615|2.8292
-91075,Bois-Herpin,6,91508|91399|91526|91001|91374|91248,Puiselet-le-Marais|Mespuits|Roinvilliers|Abbéville-la-Rivière|Marolles-en-Beauce|La Forêt-Sainte-Croix,5.6536|3.9477|1.9505|6.3489|4.4756|2.2338
-91079,Boissy-la-Rivière,7,91248|91374|91240|91544|91533|91223|91469,La Forêt-Sainte-Croix|Marolles-en-Beauce|Fontaine-la-Rivière|Saint-Cyr-la-Rivière|Saclas|Étampes|Ormoy-la-Rivière,8.3251|5.6488|2.2869|2.8888|3.9107|8.5183|3.6934
-91080,Boissy-le-Cutté,5,91129|91198|91473|91100|91671,Cerny|D'Huison-Longueville|Orveau|Bouville|Villeneuve-sur-Auvers,3.518|3.3828|3.267|203.2634|3.1543
-91081,Boissy-le-Sec,7,91662|91109|91223|91098|91247|91525|91593,Villeconin|Brières-les-Scellés|Étampes|Boutervilliers|La Forêt-le-Roi|Roinville|Sermaise,5.7534|5.5007|10.5315|3.9863|4.6269|29.9724|248.7772
-91085,Boissy-sous-Saint-Yon,7,91207|91041|91619|91132|91378|91578|91581,Égly|Avrainville|Torfou|Chamarande|Mauchamps|Saint-Sulpice-de-Favières|Saint-Yon,5.3446|404.2109|372.082|4.7846|3.2187|5.1|333.8327
-91086,Bondoufle,6,91521|91182|91340|91648|91494|91235,Ris-Orangis|Courcouronnes|Lisses|Vert-le-Grand|Le Plessis-Pâté|Fleury-Mérogis,6.2346|3.7047|5.0035|5.9578|4.8345|5.2835
-91093,Boullay-les-Troux,5,78575|91411|91482|78162|78160,Saint-Rémy-lès-Chevreuse|Les Molières|Pecqueuse|Choisel|Chevreuse,3.9381|2.0793|6.4921|2.6619|4.9745
-91095,Bouray-sur-Juine,5,91579|91315|91129|91318|91330,Saint-Vrain|Itteville|Cerny|Janville-sur-Juine|Lardy,221.5133|4.1585|6.0141|3.246|3.753
-91097,Boussy-Saint-Antoine,5,94047|94056|91631|91514|91215,Mandres-les-Roses|Périgny|Varennes-Jarcy|Quincy-sous-Sénart|Épinay-sous-Sénart,1.9457|313.9251|4.268|2.9403|3.7079
-91098,Boutervilliers,7,91081|91223|91556|91130|91495|91519|91247,Boissy-le-Sec|Étampes|Saint-Hilaire|Chalo-Saint-Mars|Plessis-Saint-Benoist|Richarville|La Forêt-le-Roi,3.9767|9.4597|590.2191|5.9916|5.6488|7.2195|4.8554
-91099,Boutigny-sur-Essonne,7,91654|91408|91405|91359|91184|91639|91293,Videlles|Moigny-sur-École|Milly-la-Forêt|Maisse|Courdimanche-sur-Essonne|Vayres-sur-Essonne|Guigneville-sur-Essonne,7.0312|7.8391|8.5279|6.0495|3.267|2.3078|5.3141
-91100,Bouville,9,91080|91473|91198|91639|91629|91508|91433|91038|91671,Boissy-le-Cutté|Orveau|D'Huison-Longueville|Vayres-sur-Essonne|Valpuiseaux|Puiselet-le-Marais|Morigny-Champigny|Auvers-Saint-Georges|Villeneuve-sur-Auvers,203.9538|206.9986|213.1447|211.2312|223.2884|214.0733|200.6578|198.3645|200.8976
-91103,Brétigny-sur-Orge,8,91570|91494|91332|91376|91457|91552|91333|91347,Saint-Michel-sur-Orge|Le Plessis-Pâté|Leudeville|Marolles-en-Hurepoix|La Norville|Saint-Germain-lès-Arpajon|Leuville-sur-Orge|Longpont-sur-Orge,3.2235|1.9763|9.5177|8.0355|5.8548|5.2078|4.0298|4.7427
-91105,Breuillet,6,91115|91207|91581|91106|91540|91568,Bruyères-le-Châtel|Égly|Saint-Yon|Breux-Jouy|Saint-Chéron|Saint-Maurice-Montcouronne,476.7134|490.7083|283.0434|474.1273|650.5966|470.9552
-91106,Breux-Jouy,5,91105|91581|91578|91602|91540,Breuillet|Saint-Yon|Saint-Sulpice-de-Favières|Souzy-la-Briche|Saint-Chéron,473.5479|309.3835|3.3957|4.8264|213.8834
-91109,Brières-les-Scellés,5,91226|91433|91223|91081|91662,Étréchy|Morigny-Champigny|Étampes|Boissy-le-Sec|Villeconin,175.1578|3.7868|5.5957|5.4991|7.2694
-91111,Briis-sous-Forges,7,91319|91243|91186|91634|91249|91338|91274,Janvry|Fontenay-lès-Briis|Courson-Monteloup|Vaugrigneuse|Forges-les-Bains|Limours|Gometz-la-Ville,176.7124|2.4398|4.6043|3.0561|2.48|6.2459|5.7647
-91112,Brouy,4,91137|45191|91067|91399,Champmotteux|Le Malesherbois|Blandy|Mespuits,5.2867|590.1835|61.1004|4.6928
-91114,Brunoy,6,94075|94047|91215|91600|91421|91691,Villecresnes|Mandres-les-Roses|Épinay-sous-Sénart|Soisy-sur-Seine|Montgeron|Yerres,5.3237|4.3726|2.9644|13.85|4.8457|3.6596
-91115,Bruyères-le-Châtel,6,91363|91461|91207|91105|91568|91243,Marcoussis|Ollainville|Égly|Breuillet|Saint-Maurice-Montcouronne|Fontenay-lès-Briis,11.0079|339.0695|5.0228|476.0697|5.9948|4.968
-91121,Buno-Bonnevaux,8,91405|91463|77471|77328|91069|91507|91273|91359,Milly-la-Forêt|Oncy-sur-École|Tousson|Nanteau-sur-Essonne|Boigneville|Prunay-sur-Essonne|Gironville-sur-Essonne|Maisse,9.6062|8.7613|7.5317|7.3306|3.6596|1.339|2.039|4.4772
-91122,Bures-sur-Yvette,4,91471|91692|91275|91272,Orsay|Les Ulis|Gometz-le-Châtel|Gif-sur-Yvette,3.3136|2.6023|3.5534|2.9274
-91129,Cerny,8,91315|91047|91232|91198|91080|91671|91318|91095,Itteville|Baulne|La Ferté-Alais|D'Huison-Longueville|Boissy-le-Cutté|Villeneuve-sur-Auvers|Janville-sur-Juine|Bouray-sur-Juine,6.7335|5.071|3.922|4.4337|3.5277|6.5066|7.6251|6.0141
-91130,Chalo-Saint-Mars,8,91556|91223|91294|91131|91613|91393|91495|91098,Saint-Hilaire|Étampes|Guillerval|Chalou-Moulineux|Congerville-Thionville|Mérobert|Plessis-Saint-Benoist|Boutervilliers,591.2877|9.6625|17.2892|8.6953|8.9286|5.4669|8.124|5.9916
-91131,Chalou-Moulineux,5,91130|91294|91414|91511|91613,Chalo-Saint-Mars|Guillerval|Monnerville|Pussay|Congerville-Thionville,8.6953|8.0532|5.5844|6.9556|2.6409
-91132,Chamarande,7,91619|91330|91318|91038|91226|91378|91085,Torfou|Lardy|Janville-sur-Juine|Auvers-Saint-Georges|Étréchy|Mauchamps|Boissy-sous-Saint-Yon,372.4489|5.2674|4.416|3.2847|165.8413|4.136|8.1497
-91135,Champcueil,7,91037|91441|91599|91412|91047|91045|91159,Auvernaux|Nainville-les-Roches|Soisy-sur-École|Mondeville|Baulne|Ballancourt-sur-Essonne|Chevannes,4.6381|5.5265|8.375|276.5207|10.3948|6.6884|277.3817
-91136,Champlan,6,91161|91345|91587|91661|91477|91377,Chilly-Mazarin|Longjumeau|Saulx-les-Chartreux|Villebon-sur-Yvette|Palaiseau|Massy,4.828|3.1511|3.4424|5.0115|2.6071|3.9477
-91137,Champmotteux,6,91273|91507|91069|45191|91112|91399,Gironville-sur-Essonne|Prunay-sur-Essonne|Boigneville|Le Malesherbois|Brouy|Mespuits,5.858|6.8397|5.7952|590.0468|5.2867|4.5561
-91145,Chatignonville,4,91175|91035|28169|78009,Corbreuse|Authon-la-Plaine|Garancières-en-Beauce|Allainville,4.3678|4.5802|3.8833|80.8374
-91148,Chauffour-lès-Étréchy,4,91578|91226|91662|91602,Saint-Sulpice-de-Favières|Étréchy|Villeconin|Souzy-la-Briche,5.8516|170.5728|4.136|4.3291
-91156,Cheptainville,5,91376|91579|91330|91041|91292,Marolles-en-Hurepoix|Saint-Vrain|Lardy|Avrainville|Guibeville,4.8731|216.3425|4.6993|396.4249|2.2112
-91159,Chevannes,6,91179|91037|91135|91045|91244|91386,Le Coudray-Montceaux|Auvernaux|Champcueil|Ballancourt-sur-Essonne|Fontenay-le-Vicomte|Mennecy,286.5968|284.1313|284.6913|293.4848|290.8197|287.6895
-91161,Chilly-Mazarin,5,91689|91432|91345|91136|91377,Wissous|Morangis|Longjumeau|Champlan|Massy,4.276|164.5313|3.4022|4.9471|4.8972
-91174,Corbeil-Essonnes,10,91225|91553|91573|91577|91435|91179|91468|91659|91340|91228,Étiolles|Saint-Germain-lès-Corbeil|Saint-Pierre-du-Perray|Saintry-sur-Seine|Morsang-sur-Seine|Le Coudray-Montceaux|Ormoy|Villabé|Lisses|Évry,4.6413|2.472|3.172|3.7868|6.5468|6.1075|316.2249|4.9568|5.6166|7.5559
-91175,Corbreuse,8,91200|91284|91519|91035|91145|78009|78564|78569,Dourdan|Les Granges-le-Roi|Richarville|Authon-la-Plaine|Chatignonville|Allainville|Saint-Martin-de-Bréthencourt|Sainte-Mesme,286.048|5.8516|7.1455|7.3096|4.3678|85.2051|4.3951|4.4498
-91179,Le Coudray-Montceaux,8,91435|77326|77407|91037|91159|91386|91468|91174,Morsang-sur-Seine|Nandy|Saint-Fargeau-Ponthierry|Auvernaux|Chevannes|Mennecy|Ormoy|Corbeil-Essonnes,11.8786|13.4091|5.1306|4.6912|279.7474|4.5351|324.4808|6.1574
-91180,Courances,5,77065|77185|91405|91408|91195,Cély|Fleury-en-Bière|Milly-la-Forêt|Moigny-sur-École|Dannemois,5.4846|7.3434|4.5561|2.6522|1.9634
-91182,Courcouronnes,4,91228|91340|91086|91521,Évry|Lisses|Bondoufle|Ris-Orangis,6.0914|3.4166|7.5301|7.4303
-91184,Courdimanche-sur-Essonne,4,91099|91359|91629|91639,Boutigny-sur-Essonne|Maisse|Valpuiseaux|Vayres-sur-Essonne,3.2702|2.7826|9.5|3.0288
-91186,Courson-Monteloup,4,91243|91568|91634|91111,Fontenay-lès-Briis|Saint-Maurice-Montcouronne|Vaugrigneuse|Briis-sous-Forges,4.4933|2.2418|3.3426|4.6092
-91191,Crosne,4,91691|91421|94078|94074,Yerres|Montgeron|Villeneuve-Saint-Georges|Valenton,1.9666|3.1752|1.8379|3.5196
-91195,Dannemois,5,91599|77065|91180|91408|91654,Soisy-sur-École|Cély|Courances|Moigny-sur-École|Videlles,3.8608|4.7798|1.965|3.4617|4.0073
-91198,D'Huison-Longueville,7,91232|91293|91639|91100|91473|91080|91129,La Ferté-Alais|Guigneville-sur-Essonne|Vayres-sur-Essonne|Bouville|Orveau|Boissy-le-Cutté|Cerny,5.0759|6.1767|5.5152|206.6671|2.5395|3.3104|3.9139
-91200,Dourdan,7,78349|91546|91525|91284|91175|78569|78537,Longvilliers|Saint-Cyr-sous-Dourdan|Roinville|Les Granges-le-Roi|Corbreuse|Sainte-Mesme|Saint-Arnoult-en-Yvelines,459.4822|288.0211|267.6484|292.4162|294.0916|284.7783|288.7147
-91201,Draveil,8,91657|91421|91600|91521|91286|91687|91326|91027,Vigneux-sur-Seine|Montgeron|Soisy-sur-Seine|Ris-Orangis|Grigny|Viry-Châtillon|Juvisy-sur-Orge|Athis-Mons,5.3382|5.5281|5.2803|5.1724|231.995|6.8204|6.542|8.0097
-91204,Écharcon,5,91340|91386|91244|91649|91648,Lisses|Mennecy|Fontenay-le-Vicomte|Vert-le-Petit|Vert-le-Grand,3.9992|2.7616|4.9021|4.5416|4.0813
-91207,Égly,7,91021|91041|91085|91581|91105|91115|91461,Arpajon|Avrainville|Boissy-sous-Saint-Yon|Saint-Yon|Breuillet|Bruyères-le-Châtel|Ollainville,2.8276|399.2493|4.4611|328.8727|493.037|5.3527|339.0292
-91215,Épinay-sous-Sénart,6,94047|91097|91514|91225|91600|91114,Mandres-les-Roses|Boussy-Saint-Antoine|Quincy-sous-Sénart|Étiolles|Soisy-sur-Seine|Brunoy,5.9063|3.8141|2.3175|10.1839|12.7283|2.5331
-91216,Épinay-sur-Orge,6,91589|91667|91549|91685|91044|91345,Savigny-sur-Orge|Villemoisson-sur-Orge|Sainte-Geneviève-des-Bois|Villiers-sur-Orge|Ballainvilliers|Longjumeau,4.7057|2.7632|4.5303|4.1923|3.2171|3.6822
-91222,Estouches,6,91544|91022|45310|45246|45015|91390,Saint-Cyr-la-Rivière|Arrancourt|Sermaises|Pannecières|Autruy-sur-Juine|Méréville,7.8423|6.4696|5.4718|1.508|5.5538|416.2617
-91223,Étampes,11,91109|91433|91248|91469|91079|91533|91294|91130|91556|91098|91081,Brières-les-Scellés|Morigny-Champigny|La Forêt-Sainte-Croix|Ormoy-la-Rivière|Boissy-la-Rivière|Saclas|Guillerval|Chalo-Saint-Mars|Saint-Hilaire|Boutervilliers|Boissy-le-Sec,6.476|2.8003|8.2221|4.1022|8.4925|10.2113|12.7042|10.472|581.8971|9.7864|10.686
-91225,Étiolles,7,91215|91514|91617|91553|91174|91228|91600,Épinay-sous-Sénart|Quincy-sous-Sénart|Tigery|Saint-Germain-lès-Corbeil|Corbeil-Essonnes|Évry|Soisy-sur-Seine,10.2338|7.8793|4.0282|5.401|4.8361|6.7995|3.2975
-91226,Étréchy,8,91578|91378|91132|91038|91433|91109|91662|91148,Saint-Sulpice-de-Favières|Mauchamps|Chamarande|Auvers-Saint-Georges|Morigny-Champigny|Brières-les-Scellés|Villeconin|Chauffour-lès-Étréchy,167.8369|165.9556|167.5215|172.9047|175.198|176.4936|172.1644|171.3179
-91228,Évry,6,91600|91225|91174|91340|91182|91521,Soisy-sur-Seine|Étiolles|Corbeil-Essonnes|Lisses|Courcouronnes|Ris-Orangis,4.4128|4.8087|5.4508|6.3971|3.4231|5.895
-91232,La Ferté-Alais,5,91047|91654|91293|91198|91129,Baulne|Videlles|Guigneville-sur-Essonne|D'Huison-Longueville|Cerny,2.5524|7.7265|1.516|3.8785|3.9509
-91235,Fleury-Mérogis,7,91687|91286|91521|91086|91494|91549|91434,Viry-Châtillon|Grigny|Ris-Orangis|Bondoufle|Le Plessis-Pâté|Sainte-Geneviève-des-Bois|Morsang-sur-Orge,5.2111|236.6766|9.3535|5.5748|5.4991|3.6162|7.0071
-91240,Fontaine-la-Rivière,4,91079|91374|91001|91544,Boissy-la-Rivière|Marolles-en-Beauce|Abbéville-la-Rivière|Saint-Cyr-la-Rivière,2.2869|4.0282|2.2981|0.7403
-91243,Fontenay-lès-Briis,6,91363|91115|91568|91186|91111|91319,Marcoussis|Bruyères-le-Châtel|Saint-Maurice-Montcouronne|Courson-Monteloup|Briis-sous-Forges|Janvry,7.6428|4.9729|7.2485|4.4627|2.4285|177.2789
-91244,Fontenay-le-Vicomte,5,91204|91386|91159|91045|91649,Écharcon|Mennecy|Chevannes|Ballancourt-sur-Essonne|Vert-le-Petit,5.4444|3.9059|284.0186|2.8872|4.6446
-91247,La Forêt-le-Roi,5,91525|91081|91098|91519|91284,Roinville|Boissy-le-Sec|Boutervilliers|Richarville|Les Granges-le-Roi,30.8495|4.6269|4.8634|3.4697|4.1312
-91248,La Forêt-Sainte-Croix,6,91508|91075|91374|91079|91223|91433,Puiselet-le-Marais|Bois-Herpin|Marolles-en-Beauce|Boissy-la-Rivière|Étampes|Morigny-Champigny,3.4199|2.2225|2.6763|8.2978|8.2157|9.4372
-91249,Forges-les-Bains,5,91111|91634|91017|78087|91338,Briis-sous-Forges|Vaugrigneuse|Angervilliers|Bonnelles|Limours,2.4816|4.8103|6.8172|7.1036|3.6822
-91272,Gif-sur-Yvette,8,91538|91534|91471|91122|91275|91274|78575|91679,Saint-Aubin|Saclay|Orsay|Bures-sur-Yvette|Gometz-le-Châtel|Gometz-la-Ville|Saint-Rémy-lès-Chevreuse|Villiers-le-Bâcle,251.5373|0.0|4.5094|2.4897|5.1869|5.9948|5.0807|4.5384
-91273,Gironville-sur-Essonne,6,91359|91121|91507|91137|91399|91629,Maisse|Buno-Bonnevaux|Prunay-sur-Essonne|Champmotteux|Mespuits|Valpuiseaux,2.4382|2.039|2.0406|5.858|10.4141|9.1266
-91274,Gometz-la-Ville,7,91272|91275|91319|91111|91338|91411|78575,Gif-sur-Yvette|Gometz-le-Châtel|Janvry|Briis-sous-Forges|Limours|Les Molières|Saint-Rémy-lès-Chevreuse,6.447|1.3277|174.131|5.755|5.9449|4.4901|8.7516
-91275,Gometz-le-Châtel,6,91122|91692|91560|91319|91274|91272,Bures-sur-Yvette|Les Ulis|Saint-Jean-de-Beauregard|Janvry|Gometz-la-Ville|Gif-sur-Yvette,3.7144|4.717|5.3366|172.3221|2.0744|5.1193
-91284,Les Granges-le-Roi,5,91525|91247|91519|91175|91200,Roinville|La Forêt-le-Roi|Richarville|Corbreuse|Dourdan,26.9243|4.1103|4.4563|5.8516|288.4974
-91286,Grigny,4,91201|91521|91235|91687,Draveil|Ris-Orangis|Fleury-Mérogis|Viry-Châtillon,232.4601|238.3744|237.2269|235.4599
-91292,Guibeville,4,91376|91156|91041|91457,Marolles-en-Hurepoix|Cheptainville|Avrainville|La Norville,2.6313|2.245|395.588|3.7063
-91293,Guigneville-sur-Essonne,5,91654|91099|91639|91198|91232,Videlles|Boutigny-sur-Essonne|Vayres-sur-Essonne|D'Huison-Longueville|La Ferté-Alais,8.2173|5.3141|5.7518|4.4756|1.516
-91294,Guillerval,6,91223|91533|91390|91414|91131|91130,Étampes|Saclas|Méréville|Monnerville|Chalou-Moulineux|Chalo-Saint-Mars,10.5171|2.1388|424.6512|5.1113|8.0515|16.948
-91312,Igny,5,91645|91377|91477|91635|91064,Verrières-le-Buisson|Massy|Palaiseau|Vauhallan|Bièvres,377.2624|367.9508|369.3397|372.6018|361.6293
-91315,Itteville,6,91649|91045|91047|91129|91095|91579,Vert-le-Petit|Ballancourt-sur-Essonne|Baulne|Cerny|Bouray-sur-Juine|Saint-Vrain,6.0254|4.4997|7.2742|7.6412|3.6677|213.6388
-91318,Janville-sur-Juine,6,91330|91095|91129|91671|91038|91132,Lardy|Bouray-sur-Juine|Cerny|Villeneuve-sur-Auvers|Auvers-Saint-Georges|Chamarande,2.0584|3.246|7.6251|9.7735|4.6526|5.858
-91319,Janvry,6,91560|91363|91243|91111|91274|91275,Saint-Jean-de-Beauregard|Marcoussis|Fontenay-lès-Briis|Briis-sous-Forges|Gometz-la-Ville|Gometz-le-Châtel,171.9133|169.62|178.8577|175.7581|174.0023|173.6836
-91326,Juvisy-sur-Orge,4,91027|91201|91687|91589,Athis-Mons|Draveil|Viry-Châtillon|Savigny-sur-Orge,3.473|5.4991|2.7632|3.0449
-91330,Lardy,7,91156|91579|91095|91318|91132|91619|91041,Cheptainville|Saint-Vrain|Bouray-sur-Juine|Janville-sur-Juine|Chamarande|Torfou|Avrainville,4.7637|219.8477|7.2758|2.5009|5.2674|372.4312|399.93
-91332,Leudeville,6,91494|91648|91649|91579|91376|91103,Le Plessis-Pâté|Vert-le-Grand|Vert-le-Petit|Saint-Vrain|Marolles-en-Hurepoix|Brétigny-sur-Orge,9.5997|4.4048|3.8045|208.7786|2.6264|9.743
-91333,Leuville-sur-Orge,4,91347|91103|91552|91339,Longpont-sur-Orge|Brétigny-sur-Orge|Saint-Germain-lès-Arpajon|Linas,5.615|4.4064|2.8244|2.4285
-91338,Limours,6,91274|91111|91249|78087|91482|91411,Gometz-la-Ville|Briis-sous-Forges|Forges-les-Bains|Bonnelles|Pecqueuse|Les Molières,6.0688|5.3575|5.0775|5.2593|1.8845|4.1183
-91339,Linas,6,91425|91347|91333|91552|91461|91363,Montlhéry|Longpont-sur-Orge|Leuville-sur-Orge|Saint-Germain-lès-Arpajon|Ollainville|Marcoussis,2.134|2.9467|2.163|6.5146|332.4358|4.136
-91340,Lisses,8,91228|91174|91659|91386|91204|91648|91086|91182,Évry|Corbeil-Essonnes|Villabé|Mennecy|Écharcon|Vert-le-Grand|Bondoufle|Courcouronnes,7.2549|7.955|4.0395|5.5056|3.8689|7.1101|4.8457|5.2883
-91345,Longjumeau,7,91161|91432|91589|91216|91044|91587|91136,Chilly-Mazarin|Morangis|Savigny-sur-Orge|Épinay-sur-Orge|Ballainvilliers|Saulx-les-Chartreux|Champlan,2.8147|164.1177|5.8902|3.6307|3.3716|4.3195|2.8501
-91347,Longpont-sur-Orge,9,91044|91685|91549|91570|91103|91333|91339|91425|91665,Ballainvilliers|Villiers-sur-Orge|Sainte-Geneviève-des-Bois|Saint-Michel-sur-Orge|Brétigny-sur-Orge|Leuville-sur-Orge|Linas|Montlhéry|La Ville-du-Bois,5.7856|3.2798|6.0721|4.107|5.7116|5.5989|3.584|2.0761|5.8741
-91359,Maisse,6,91099|91405|91121|91273|91629|91184,Boutigny-sur-Essonne|Milly-la-Forêt|Buno-Bonnevaux|Gironville-sur-Essonne|Valpuiseaux|Courdimanche-sur-Essonne,6.0527|7.5897|4.4772|2.4382|6.7174|2.7826
-91363,Marcoussis,10,91666|91458|91425|91339|91461|91115|91243|91319|91560|91692,Villejust|Nozay|Montlhéry|Linas|Ollainville|Bruyères-le-Châtel|Fontenay-lès-Briis|Janvry|Saint-Jean-de-Beauregard|Les Ulis,8.5601|189.6145|3.8978|4.3565|335.2537|11.2026|7.7892|169.3304|8.8417|7.6637
-91374,Marolles-en-Beauce,5,91248|91075|91001|91240|91079,La Forêt-Sainte-Croix|Bois-Herpin|Abbéville-la-Rivière|Fontaine-la-Rivière|Boissy-la-Rivière,2.6763|4.4643|5.7164|4.0298|5.6214
-91376,Marolles-en-Hurepoix,6,91103|91332|91579|91156|91292|91457,Brétigny-sur-Orge|Leudeville|Saint-Vrain|Cheptainville|Guibeville|La Norville,8.2109|2.6876|213.6066|4.9825|2.5975|6.4438
-91377,Massy,7,92002|91689|91161|91136|91477|91312|91645,Antony|Wissous|Chilly-Mazarin|Champlan|Palaiseau|Igny|Verrières-le-Buisson,6.542|5.129|4.6333|5.4315|3.4955|369.0001|2.8534
-91378,Mauchamps,4,91085|91132|91226|91578,Boissy-sous-Saint-Yon|Chamarande|Étréchy|Saint-Sulpice-de-Favières,6.9701|4.2052|164.66|1.8813
-91386,Mennecy,7,91659|91468|91179|91159|91244|91204|91340,Villabé|Ormoy|Le Coudray-Montceaux|Chevannes|Fontenay-le-Vicomte|Écharcon|Lisses,6.4052|324.2764|4.6832|280.4362|3.6548|2.9757|5.7389
-91390,Méréville,7,91294|91533|91544|91222|45015|91016|91414,Guillerval|Saclas|Saint-Cyr-la-Rivière|Estouches|Autruy-sur-Juine|Angerville|Monnerville,422.9823|421.1347|418.7143|414.5461|413.5258|567.5867|423.8948
-91393,Mérobert,5,91495|91130|91613|28294|91547,Plessis-Saint-Benoist|Chalo-Saint-Mars|Congerville-Thionville|Oysonville|Saint-Escobille,3.3169|5.4669|3.4617|5.8677|5.4267
-91399,Mespuits,8,91629|91273|91137|91112|91067|91526|91075|91508,Valpuiseaux|Gironville-sur-Essonne|Champmotteux|Brouy|Blandy|Roinvilliers|Bois-Herpin|Puiselet-le-Marais,6.0012|10.4141|4.5561|4.6928|56.4075|2.3158|3.9654|8.1465
-91405,Milly-la-Forêt,9,91180|77185|77006|77339|91463|91121|91359|91099|91408,Courances|Fleury-en-Bière|Arbonne-la-Forêt|Noisy-sur-École|Oncy-sur-École|Buno-Bonnevaux|Maisse|Boutigny-sur-Essonne|Moigny-sur-École,4.5142|11.2429|8.3943|5.8467|3.1463|9.5772|7.5205|8.4539|3.8753
-91408,Moigny-sur-École,5,91195|91180|91405|91099|91654,Dannemois|Courances|Milly-la-Forêt|Boutigny-sur-Essonne|Videlles,3.407|2.6538|3.8431|7.2646|5.9401
-91411,Les Molières,5,78575|91274|91338|91482|91093,Saint-Rémy-lès-Chevreuse|Gometz-la-Ville|Limours|Pecqueuse|Boullay-les-Troux,4.4836|4.5126|4.0218|4.7958|2.0793
-91412,Mondeville,4,91135|91599|91654|91047,Champcueil|Soisy-sur-École|Videlles|Baulne,275.2735|276.3839|281.5097|282.2805
-91414,Monnerville,5,91294|91390|91016|91511|91131,Guillerval|Méréville|Angerville|Pussay|Chalou-Moulineux,5.1113|425.6055|265.2183|3.9525|5.5844
-91421,Montgeron,7,91191|91691|91114|91600|91201|91657|94078,Crosne|Yerres|Brunoy|Soisy-sur-Seine|Draveil|Vigneux-sur-Seine|Villeneuve-Saint-Georges,2.3802|2.8244|5.3607|10.1871|5.2449|4.6623|3.5615
-91425,Montlhéry,5,91347|91339|91363|91458|91665,Longpont-sur-Orge|Linas|Marcoussis|Nozay|La Ville-du-Bois,2.0278|1.6721|3.0417|186.9317|5.2835
-91432,Morangis,5,91479|91589|91345|91161|91689,Paray-Vieille-Poste|Savigny-sur-Orge|Longjumeau|Chilly-Mazarin|Wissous,143.5857|152.8346|149.6223|148.1771|147.9518
-91433,Morigny-Champigny,7,91038|91100|91508|91248|91223|91109|91226,Auvers-Saint-Georges|Bouville|Puiselet-le-Marais|La Forêt-Sainte-Croix|Étampes|Brières-les-Scellés|Étréchy,6.4229|200.5114|13.0325|9.3406|2.8196|3.8318|173.4825
-91434,Morsang-sur-Orge,5,91687|91235|91549|91667|91589,Viry-Châtillon|Fleury-Mérogis|Sainte-Geneviève-des-Bois|Villemoisson-sur-Orge|Savigny-sur-Orge,2.4591|6.4535|3.1302|1.6625|4.3356
-91435,Morsang-sur-Seine,5,91573|77326|91179|91174|91577,Saint-Pierre-du-Perray|Nandy|Le Coudray-Montceaux|Corbeil-Essonnes|Saintry-sur-Seine,6.5999|6.8381|11.5712|6.8204|2.958
-91441,Nainville-les-Roches,5,77407|77435|91599|91135|91037,Saint-Fargeau-Ponthierry|Saint-Sauveur-sur-École|Soisy-sur-École|Champcueil|Auvernaux,4.9648|5.504|3.0513|5.4541|2.6345
-91457,La Norville,6,91103|91376|91292|91041|91021|91552,Brétigny-sur-Orge|Marolles-en-Hurepoix|Guibeville|Avrainville|Arpajon|Saint-Germain-lès-Arpajon,5.8258|6.4068|3.7449|396.1127|1.0332|2.134
-91458,Nozay,5,91587|91665|91425|91363|91666,Saulx-les-Chartreux|La Ville-du-Bois|Montlhéry|Marcoussis|Villejust,188.3351|192.1879|187.944|189.9444|196.4237
-91461,Ollainville,6,91339|91552|91021|91207|91115|91363,Linas|Saint-Germain-lès-Arpajon|Arpajon|Égly|Bruyères-le-Châtel|Marcoussis,329.6967|335.3985|335.3712|337.7289|339.2271|334.8513
-91463,Oncy-sur-École,4,91405|77339|77471|91121,Milly-la-Forêt|Noisy-sur-École|Tousson|Buno-Bonnevaux,3.1366|3.333|4.6591|8.7532
-91468,Ormoy,4,91174|91179|91386|91659,Corbeil-Essonnes|Le Coudray-Montceaux|Mennecy|Villabé,314.6429|324.3134|345.1174|320.8936
-91469,Ormoy-la-Rivière,2,91079|91223,Boissy-la-Rivière|Étampes,3.6951|3.9155
-91471,Orsay,6,91477|91661|91692|91122|91272|91534,Palaiseau|Villebon-sur-Yvette|Les Ulis|Bures-sur-Yvette|Gif-sur-Yvette|Saclay,6.0801|4.0427|4.0411|2.0841|5.5426|0.0
-91473,Orveau,3,91198|91100|91080,D'Huison-Longueville|Bouville|Boissy-le-Cutté,2.7037|206.3437|3.3635
-91477,Palaiseau,7,91377|91136|91661|91471|91534|91635|91312,Massy|Champlan|Villebon-sur-Yvette|Orsay|Saclay|Vauhallan|Igny,3.8206|3.9783|2.6168|5.3334|0.0|5.5313|369.8241
-91479,Paray-Vieille-Poste,8,94073|94054|94077|91027|91589|91432|91689|94065,Thiais|Orly|Villeneuve-le-Roi|Athis-Mons|Savigny-sur-Orge|Morangis|Wissous|Rungis,8.5617|7.4303|6.5162|2.6812|4.4354|158.3015|9.2618|5.7631
-91482,Pecqueuse,6,91093|91411|91338|78087|78120|78162,Boullay-les-Troux|Les Molières|Limours|Bonnelles|Bullion|Choisel,6.5307|4.8345|2.1549|5.6665|6.3794|9.2296
-91494,Le Plessis-Pâté,7,91235|91086|91648|91332|91103|91570|91549,Fleury-Mérogis|Bondoufle|Vert-le-Grand|Leudeville|Brétigny-sur-Orge|Saint-Michel-sur-Orge|Sainte-Geneviève-des-Bois,5.0904|6.6884|10.4897|9.4533|1.9505|3.407|4.5754
-91495,Plessis-Saint-Benoist,6,91098|91130|91393|91547|91035|91519,Boutervilliers|Chalo-Saint-Mars|Mérobert|Saint-Escobille|Authon-la-Plaine|Richarville,5.4863|8.124|3.3169|3.7095|4.8441|3.4569
-91507,Prunay-sur-Essonne,4,91121|91069|91137|91273,Buno-Bonnevaux|Boigneville|Champmotteux|Gironville-sur-Essonne,1.339|2.8292|6.8059|2.0406
-91508,Puiselet-le-Marais,6,91100|91629|91399|91075|91248|91433,Bouville|Valpuiseaux|Mespuits|Bois-Herpin|La Forêt-Sainte-Croix|Morigny-Champigny,214.1281|6.6369|8.1465|5.6424|3.4199|13.0148
-91511,Pussay,5,91131|91414|91016|28183|91613,Chalou-Moulineux|Monnerville|Angerville|Gommerville|Congerville-Thionville,6.9556|3.9525|261.2657|237.5955|5.092
-91514,Quincy-sous-Sénart,7,91097|91631|77122|91617|91225|91600|91215,Boussy-Saint-Antoine|Varennes-Jarcy|Combs-la-Ville|Tigery|Étiolles|Soisy-sur-Seine|Épinay-sous-Sénart,2.9805|4.7781|3.6162|4.6124|7.8665|10.4108|2.3561
-91519,Richarville,6,91284|91247|91098|91495|91035|91175,Les Granges-le-Roi|La Forêt-le-Roi|Boutervilliers|Plessis-Saint-Benoist|Authon-la-Plaine|Corbreuse,4.4563|3.4697|7.2195|3.4553|4.9793|7.1455
-91521,Ris-Orangis,7,91201|91600|91228|91182|91086|91235|91286,Draveil|Soisy-sur-Seine|Évry|Courcouronnes|Bondoufle|Fleury-Mérogis|Grigny,5.1966|6.3151|4.2117|5.3092|7.3933|8.7613|237.7114
-91525,Roinville,7,91630|91593|91081|91247|91284|91200|91546,Le Val-Saint-Germain|Sermaise|Boissy-le-Sec|La Forêt-le-Roi|Les Granges-le-Roi|Dourdan|Saint-Cyr-sous-Dourdan,32.7067|218.0838|30.3007|31.1794|27.2414|262.7495|30.8189
-91526,Roinvilliers,5,91075|91399|91067|45263|91001,Bois-Herpin|Mespuits|Blandy|Rouvres-Saint-Jean|Abbéville-la-Rivière,1.9505|2.3158|58.4015|5.1097|6.1413
-91533,Saclas,5,91223|91079|91544|91390|91294,Étampes|Boissy-la-Rivière|Saint-Cyr-la-Rivière|Méréville|Guillerval,9.3052|3.9107|2.4205|422.8037|2.1388
-91534,Saclay,9,91064|91635|91477|91471|91272|91538|91679|78620|78322,Bièvres|Vauhallan|Palaiseau|Orsay|Gif-sur-Yvette|Saint-Aubin|Villiers-le-Bâcle|Toussus-le-Noble|Jouy-en-Josas,0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0
-91538,Saint-Aubin,3,91534|91272|91679,Saclay|Gif-sur-Yvette|Villiers-le-Bâcle,0.0|249.1264|246.5097
-91540,Saint-Chéron,7,91105|91106|91602|91662|91593|91630|91568,Breuillet|Breux-Jouy|Souzy-la-Briche|Villeconin|Sermaise|Le Val-Saint-Germain|Saint-Maurice-Montcouronne,649.8822|236.889|239.7794|242.0357|453.1817|249.5561|236.263
-91544,Saint-Cyr-la-Rivière,7,91079|91240|91001|91022|91222|91390|91533,Boissy-la-Rivière|Fontaine-la-Rivière|Abbéville-la-Rivière|Arrancourt|Estouches|Méréville|Saclas,2.8888|0.7403|2.7359|2.3545|7.8906|420.3832|2.4205
-91546,Saint-Cyr-sous-Dourdan,5,91017|91630|91525|91200|78349,Angervilliers|Le Val-Saint-Germain|Roinville|Dourdan|Longvilliers,3.9445|2.2901|33.0527|283.6372|289.0237
-91547,Saint-Escobille,6,91495|91393|28294|28363|28169|91035,Plessis-Saint-Benoist|Mérobert|Oysonville|Sainville|Garancières-en-Beauce|Authon-la-Plaine,6.7287|5.4508|5.0131|8.9496|6.8011|2.7632
-91549,Sainte-Geneviève-des-Bois,8,91667|91434|91235|91494|91570|91347|91685|91216,Villemoisson-sur-Orge|Morsang-sur-Orge|Fleury-Mérogis|Le Plessis-Pâté|Saint-Michel-sur-Orge|Longpont-sur-Orge|Villiers-sur-Orge|Épinay-sur-Orge,3.0658|3.79|3.3233|4.1634|4.5046|4.6333|5.3913|4.7154
-91552,Saint-Germain-lès-Arpajon,6,91333|91103|91457|91021|91461|91339,Leuville-sur-Orge|Brétigny-sur-Orge|La Norville|Arpajon|Ollainville|Linas,2.8357|5.2706|2.929|2.3834|333.5011|4.5786
-91553,Saint-Germain-lès-Corbeil,4,91617|91573|91174|91225,Tigery|Saint-Pierre-du-Perray|Corbeil-Essonnes|Étiolles,2.7616|2.2322|2.5524|5.7808
-91556,Saint-Hilaire,3,91223|91130|91098,Étampes|Chalo-Saint-Mars|Boutervilliers,580.8042|591.7976|589.242
-91560,Saint-Jean-de-Beauregard,4,91692|91363|91319|91275,Les Ulis|Marcoussis|Janvry|Gometz-le-Châtel,3.2847|8.5054|171.9632|4.3983
-91568,Saint-Maurice-Montcouronne,7,91186|91243|91115|91105|91540|91630|91634,Courson-Monteloup|Fontenay-lès-Briis|Bruyères-le-Châtel|Breuillet|Saint-Chéron|Le Val-Saint-Germain|Vaugrigneuse,2.2418|7.2919|6.0592|470.3759|213.8014|5.2851|3.1833
-91570,Saint-Michel-sur-Orge,4,91549|91494|91103|91347,Sainte-Geneviève-des-Bois|Le Plessis-Pâté|Brétigny-sur-Orge|Longpont-sur-Orge,3.6291|3.5309|4.2615|3.2042
-91573,Saint-Pierre-du-Perray,8,91617|77251|77445|77326|91435|91577|91174|91553,Tigery|Lieusaint|Savigny-le-Temple|Nandy|Morsang-sur-Seine|Saintry-sur-Seine|Corbeil-Essonnes|Saint-Germain-lès-Corbeil,4.4048|376.461|10.7456|7.9646|6.4342|3.6741|3.3635|2.282
-91577,Saintry-sur-Seine,3,91573|91435|91174,Saint-Pierre-du-Perray|Morsang-sur-Seine|Corbeil-Essonnes,3.8544|2.9837|4.0749
-91578,Saint-Sulpice-de-Favières,7,91581|91085|91378|91226|91148|91602|91106,Saint-Yon|Boissy-sous-Saint-Yon|Mauchamps|Étréchy|Chauffour-lès-Étréchy|Souzy-la-Briche|Breux-Jouy,312.7809|7.7731|1.8797|166.5397|5.8516|3.1076|3.3973
-91579,Saint-Vrain,7,91332|91649|91315|91095|91330|91156|91376,Leudeville|Vert-le-Petit|Itteville|Bouray-sur-Juine|Lardy|Cheptainville|Marolles-en-Hurepoix,209.5382|208.975|213.9028|222.8652|221.1657|217.6123|214.9601
-91581,Saint-Yon,5,91207|91085|91578|91106|91105,Égly|Boissy-sous-Saint-Yon|Saint-Sulpice-de-Favières|Breux-Jouy|Breuillet,338.1538|340.5453|324.9684|321.5727|284.3888
-91587,Saulx-les-Chartreux,7,91136|91345|91044|91665|91458|91666|91661,Champlan|Longjumeau|Ballainvilliers|La Ville-du-Bois|Nozay|Villejust|Villebon-sur-Yvette,4.0475|3.3603|4.5593|4.9294|188.2482|2.8807|5.0549
-91589,Savigny-sur-Orge,9,91479|91027|91326|91687|91434|91667|91216|91345|91432,Paray-Vieille-Poste|Athis-Mons|Juvisy-sur-Orge|Viry-Châtillon|Morsang-sur-Orge|Villemoisson-sur-Orge|Épinay-sur-Orge|Longjumeau|Morangis,4.334|4.1151|2.9242|5.1354|3.9075|3.9075|3.1849|6.2443|162.1012
-91593,Sermaise,6,91540|91602|91662|91081|91525|91630,Saint-Chéron|Souzy-la-Briche|Villeconin|Boissy-le-Sec|Roinville|Le Val-Saint-Germain,454.0813|251.3297|250.2482|250.4268|218.7066|240.9671
-91599,Soisy-sur-École,8,91441|77435|77412|77065|91195|91654|91412|91135,Nainville-les-Roches|Saint-Sauveur-sur-École|Saint-Germain-sur-École|Cély|Dannemois|Videlles|Mondeville|Champcueil,3.2863|5.8773|2.4864|5.2577|3.7932|6.6659|279.7233|8.3605
-91600,Soisy-sur-Seine,8,91114|91215|91514|91225|91228|91521|91201|91421,Brunoy|Épinay-sous-Sénart|Quincy-sous-Sénart|Étiolles|Évry|Ris-Orangis|Draveil|Montgeron,13.2159|13.4927|11.6983|4.3967|7.6009|5.8516|4.7942|9.9844
-91602,Souzy-la-Briche,6,91106|91578|91148|91662|91593|91540,Breux-Jouy|Saint-Sulpice-de-Favières|Chauffour-lès-Étréchy|Villeconin|Sermaise|Saint-Chéron,4.828|3.1076|4.3291|2.8324|251.7851|217.6268
-91613,Congerville-Thionville,6,91393|91130|91131|91511|28183|28294,Mérobert|Chalo-Saint-Mars|Chalou-Moulineux|Pussay|Gommerville|Oysonville,3.4617|8.9286|2.6409|5.092|233.6558|2.4703
-91617,Tigery,6,91514|77122|77251|91573|91553|91225,Quincy-sous-Sénart|Combs-la-Ville|Lieusaint|Saint-Pierre-du-Perray|Saint-Germain-lès-Corbeil|Étiolles,4.5174|6.4293|374.7583|3.93|2.3191|4.0201
-91619,Torfou,4,91041|91330|91132|91085,Avrainville|Lardy|Chamarande|Boissy-sous-Saint-Yon,703.235|371.0327|370.7656|365.9793
-91629,Valpuiseaux,7,91639|91184|91359|91273|91399|91508|91100,Vayres-sur-Essonne|Courdimanche-sur-Essonne|Maisse|Gironville-sur-Essonne|Mespuits|Puiselet-le-Marais|Bouville,10.9001|9.5|6.7174|9.1266|6.0012|6.6369|224.3973
-91630,Le Val-Saint-Germain,7,91634|91568|91540|91593|91525|91546|91017,Vaugrigneuse|Saint-Maurice-Montcouronne|Saint-Chéron|Sermaise|Roinville|Saint-Cyr-sous-Dourdan|Angervilliers,6.7432|5.2851|218.7839|240.8512|34.9324|2.6908|3.7385
-91631,Varennes-Jarcy,5,77053|77122|91514|91097|94056,Brie-Comte-Robert|Combs-la-Ville|Quincy-sous-Sénart|Boussy-Saint-Antoine|Périgny,7.0988|1.957|4.1956|3.4923|317.5107
-91634,Vaugrigneuse,6,91111|91186|91568|91630|91017|91249,Briis-sous-Forges|Courson-Monteloup|Saint-Maurice-Montcouronne|Le Val-Saint-Germain|Angervilliers|Forges-les-Bains,3.0883|3.3072|3.1752|6.7335|6.8558|4.9471
-91635,Vauhallan,4,91064|91312|91477|91534,Bièvres|Igny|Palaiseau|Saclay,203.3551|372.7885|5.0244|0.0
-91639,Vayres-sur-Essonne,6,91293|91099|91184|91629|91100|91198,Guigneville-sur-Essonne|Boutigny-sur-Essonne|Courdimanche-sur-Essonne|Valpuiseaux|Bouville|D'Huison-Longueville,5.6762|3.5116|4.0491|11.877|214.1023|4.3018
-91645,Verrières-le-Buisson,5,92019|92002|91377|91312|91064,Châtenay-Malabry|Antony|Massy|Igny|Bièvres,3.613|4.4788|3.3909|376.8987|197.1929
-91648,Vert-le-Grand,6,91086|91340|91204|91649|91332|91494,Bondoufle|Lisses|Écharcon|Vert-le-Petit|Leudeville|Le Plessis-Pâté,5.8773|7.2388|4.0829|3.8351|3.1093|8.9463
-91649,Vert-le-Petit,7,91648|91204|91244|91045|91315|91579|91332,Vert-le-Grand|Écharcon|Fontenay-le-Vicomte|Ballancourt-sur-Essonne|Itteville|Saint-Vrain|Leudeville,3.6596|6.7013|4.6768|3.9574|7.0296|208.0335|3.9043
-91654,Videlles,8,91599|91195|91408|91099|91293|91232|91047|91412,Soisy-sur-École|Dannemois|Moigny-sur-École|Boutigny-sur-Essonne|Guigneville-sur-Essonne|La Ferté-Alais|Baulne|Mondeville,6.6659|3.9509|5.9401|7.0312|8.2125|7.7216|7.3418|282.7425
-91657,Vigneux-sur-Seine,6,94078|91421|91201|91027|94077|94001,Villeneuve-Saint-Georges|Montgeron|Draveil|Athis-Mons|Villeneuve-le-Roi|Ablon-sur-Seine,4.4112|5.1515|4.9133|8.4056|6.1396|6.6804
-91659,Villabé,4,91174|91468|91386|91340,Corbeil-Essonnes|Ormoy|Mennecy|Lisses,5.4959|321.0609|5.961|4.07
-91661,Villebon-sur-Yvette,6,91136|91587|91666|91692|91471|91477,Champlan|Saulx-les-Chartreux|Villejust|Les Ulis|Orsay|Palaiseau,6.2668|6.1413|4.4466|6.5339|3.1318|3.1221
-91662,Villeconin,7,91602|91148|91226|91109|91081|91593|91540,Souzy-la-Briche|Chauffour-lès-Étréchy|Étréchy|Brières-les-Scellés|Boissy-le-Sec|Sermaise|Saint-Chéron,2.8324|4.136|171.0652|7.2678|5.7534|250.5942|219.8831
-91665,La Ville-du-Bois,5,91587|91044|91347|91425|91458,Saulx-les-Chartreux|Ballainvilliers|Longpont-sur-Orge|Montlhéry|Nozay,4.6027|3.7321|4.7781|3.8093|189.6821
-91666,Villejust,5,91661|91587|91458|91363|91692,Villebon-sur-Yvette|Saulx-les-Chartreux|Nozay|Marcoussis|Les Ulis,4.3999|2.855|195.5176|7.6106|6.5178
-91667,Villemoisson-sur-Orge,4,91589|91434|91549|91216,Savigny-sur-Orge|Morsang-sur-Orge|Sainte-Geneviève-des-Bois|Épinay-sur-Orge,4.0201|2.0712|2.9596|2.9966
-91671,Villeneuve-sur-Auvers,5,91129|91080|91100|91038|91318,Cerny|Boissy-le-Cutté|Bouville|Auvers-Saint-Georges|Janville-sur-Juine,6.5066|3.1559|200.2442|5.2658|9.7494
-91679,Villiers-le-Bâcle,6,91534|91538|91272|78575|78143|78620,Saclay|Saint-Aubin|Gif-sur-Yvette|Saint-Rémy-lès-Chevreuse|Châteaufort|Toussus-le-Noble,0.0|250.3657|4.4176|7.2131|3.679|2.7134
-91685,Villiers-sur-Orge,4,91216|91549|91347|91044,Épinay-sur-Orge|Sainte-Geneviève-des-Bois|Longpont-sur-Orge|Ballainvilliers,5.8661|5.3672|4.0314|3.0401
-91687,Viry-Châtillon,6,91326|91201|91286|91235|91434|91589,Juvisy-sur-Orge|Draveil|Grigny|Fleury-Mérogis|Morsang-sur-Orge|Savigny-sur-Orge,3.2396|7.4352|233.9375|5.1354|2.4848|5.8307
-91689,Wissous,7,94065|91479|91432|91161|91377|92002|94034,Rungis|Paray-Vieille-Poste|Morangis|Chilly-Mazarin|Massy|Antony|Fresnes,3.5856|9.4533|159.6807|3.4102|4.4273|7.4625|161.1018
-91691,Yerres,6,94075|91114|91421|91191|94074|94044,Villecresnes|Brunoy|Montgeron|Crosne|Valenton|Limeil-Brévannes,5.7888|3.7305|2.8566|1.9698|5.0727|4.5319
-91692,Les Ulis,7,91471|91661|91666|91363|91560|91275|91122,Orsay|Villebon-sur-Yvette|Villejust|Marcoussis|Saint-Jean-de-Beauregard|Gometz-le-Châtel|Bures-sur-Yvette,3.5921|7.0489|5.4621|7.5736|3.5389|5.3108|3.6468
+91001,Abbéville-la-Rivière,8,91374|Marolles-en-Beauce|5.6697,91075|Bois-Herpin|6.3489,91526|Roinvilliers|6.1413,45263|Rouvres-Saint-Jean|5.9996,45310|Sermaises|7.477,91022|Arrancourt|0.5955,91544|Saint-Cyr-la-Rivière|2.7359,91240|Fontaine-la-Rivière|2.2981
+91016,Angerville,8,91414|Monnerville|265.368,91390|Méréville|604.7963,45015|Autruy-sur-Juine|275.222,45005|Andonville|271.3821,28319|Rouvray-Saint-Denis|272.0805,28197|Intréville|271.3628,28183|Gommerville|68.1107,91511|Pussay|261.4154
+91017,Angervilliers,6,91249|Forges-les-Bains|6.7737,91634|Vaugrigneuse|4.8441,91630|Le Val-Saint-Germain|3.79,91546|Saint-Cyr-sous-Dourdan|4.0218,78349|Longvilliers|280.1595,78087|Bonnelles|3.8962
+91021,Arpajon,5,91552|Saint-Germain-lès-Arpajon|2.0809,91457|La Norville|2.3078,91041|Avrainville|394.6497,91207|Égly|3.6098,91461|Ollainville|334.4297
+91022,Arrancourt,5,91001|Abbéville-la-Rivière|0.5955,45310|Sermaises|8.0741,45246|Pannecières|13.4396,91222|Estouches|6.4696,91544|Saint-Cyr-la-Rivière|2.3561
+91027,Athis-Mons,7,94077|Villeneuve-le-Roi|4.6768,94001|Ablon-sur-Seine|5.3301,91657|Vigneux-sur-Seine|10.1389,91201|Draveil|9.0606,91326|Juvisy-sur-Orge|3.7449,91589|Savigny-sur-Orge|4.9037,91479|Paray-Vieille-Poste|2.5894
+91035,Authon-la-Plaine,6,91175|Corbreuse|7.3096,91519|Richarville|4.9793,91495|Plessis-Saint-Benoist|4.9391,91547|Saint-Escobille|2.8276,28169|Garancières-en-Beauce|4.7524,91145|Chatignonville|4.4176
+91037,Auvernaux,5,77407|Saint-Fargeau-Ponthierry|3.5727,91441|Nainville-les-Roches|2.6924,91135|Champcueil|6.6788,91159|Chevannes|276.8071,91179|Le Coudray-Montceaux|4.6558
+91038,Auvers-Saint-Georges,6,91318|Janville-sur-Juine|4.5206,91671|Villeneuve-sur-Auvers|5.2899,91100|Bouville|197.6564,91433|Morigny-Champigny|6.4663,91226|Étréchy|170.6275,91132|Chamarande|3.0851
+91041,Avrainville,8,91021|Arpajon|394.7399,91457|La Norville|395.168,91292|Guibeville|395.0264,91156|Cheptainville|395.6878,91330|Lardy|399.2412,91619|Torfou|747.4164,91085|Boissy-sous-Saint-Yon|399.4907,91207|Égly|397.0976
+91044,Ballainvilliers,6,91345|Longjumeau|3.4295,91216|Épinay-sur-Orge|3.209,91685|Villiers-sur-Orge|3.0449,91347|Longpont-sur-Orge|7.0232,91665|La Ville-du-Bois|3.1044,91587|Saulx-les-Chartreux|4.3839
+91045,Ballancourt-sur-Essonne,6,91244|Fontenay-le-Vicomte|2.9226,91159|Chevannes|286.217,91135|Champcueil|6.6981,91047|Baulne|4.1956,91315|Itteville|5.0549,91649|Vert-le-Petit|4.0443
+91047,Baulne,7,91045|Ballancourt-sur-Essonne|4.3066,91135|Champcueil|10.3175,91412|Mondeville|283.2494,91654|Videlles|7.3418,91232|La Ferté-Alais|1.9055,91129|Cerny|5.0759,91315|Itteville|4.0845
+91064,Bièvres,8,92023|Clamart|188.636,92019|Châtenay-Malabry|191.8837,91645|Verrières-le-Buisson|194.0048,91312|Igny|361.3541,91635|Vauhallan|200.6691,91534|Saclay|0.0,78322|Jouy-en-Josas|203.0735,78640|Vélizy-Villacoublay|200.373
+91067,Blandy,7,91399|Mespuits|51.6873,91112|Brouy|56.3802,45191|Le Malesherbois|629.4081,45012|Audeville|62.9044,45310|Sermaises|91.1677,45263|Rouvres-Saint-Jean|58.791,91526|Roinvilliers|53.6813
+91069,Boigneville,5,91121|Buno-Bonnevaux|3.6596,77328|Nanteau-sur-Essonne|6.299,45191|Le Malesherbois|597.6815,91137|Champmotteux|5.7615,91507|Prunay-sur-Essonne|2.8292
+91075,Bois-Herpin,6,91508|Puiselet-le-Marais|5.6536,91399|Mespuits|3.9477,91526|Roinvilliers|1.9505,91001|Abbéville-la-Rivière|6.3489,91374|Marolles-en-Beauce|4.4756,91248|La Forêt-Sainte-Croix|2.2338
+91079,Boissy-la-Rivière,7,91248|La Forêt-Sainte-Croix|8.3251,91374|Marolles-en-Beauce|5.6488,91240|Fontaine-la-Rivière|2.2869,91544|Saint-Cyr-la-Rivière|2.8888,91533|Saclas|3.9107,91223|Étampes|8.5183,91469|Ormoy-la-Rivière|3.6934
+91080,Boissy-le-Cutté,5,91129|Cerny|3.518,91198|D'Huison-Longueville|3.3828,91473|Orveau|3.267,91100|Bouville|203.2634,91671|Villeneuve-sur-Auvers|3.1543
+91081,Boissy-le-Sec,7,91662|Villeconin|5.7534,91109|Brières-les-Scellés|5.5007,91223|Étampes|10.5315,91098|Boutervilliers|3.9863,91247|La Forêt-le-Roi|4.6269,91525|Roinville|29.9724,91593|Sermaise|248.7772
+91085,Boissy-sous-Saint-Yon,7,91207|Égly|5.3446,91041|Avrainville|404.2109,91619|Torfou|372.082,91132|Chamarande|4.7846,91378|Mauchamps|3.2187,91578|Saint-Sulpice-de-Favières|5.1,91581|Saint-Yon|333.8327
+91086,Bondoufle,6,91521|Ris-Orangis|6.2346,91182|Courcouronnes|3.7047,91340|Lisses|5.0035,91648|Vert-le-Grand|5.9578,91494|Le Plessis-Pâté|4.8345,91235|Fleury-Mérogis|5.2835
+91093,Boullay-les-Troux,5,78575|Saint-Rémy-lès-Chevreuse|3.9381,91411|Les Molières|2.0793,91482|Pecqueuse|6.4921,78162|Choisel|2.6619,78160|Chevreuse|4.9745
+91095,Bouray-sur-Juine,5,91579|Saint-Vrain|221.5133,91315|Itteville|4.1585,91129|Cerny|6.0141,91318|Janville-sur-Juine|3.246,91330|Lardy|3.753
+91097,Boussy-Saint-Antoine,5,94047|Mandres-les-Roses|1.9457,94056|Périgny|313.9251,91631|Varennes-Jarcy|4.268,91514|Quincy-sous-Sénart|2.9403,91215|Épinay-sous-Sénart|3.7079
+91098,Boutervilliers,7,91081|Boissy-le-Sec|3.9767,91223|Étampes|9.4597,91556|Saint-Hilaire|590.2191,91130|Chalo-Saint-Mars|5.9916,91495|Plessis-Saint-Benoist|5.6488,91519|Richarville|7.2195,91247|La Forêt-le-Roi|4.8554
+91099,Boutigny-sur-Essonne,7,91654|Videlles|7.0312,91408|Moigny-sur-École|7.8391,91405|Milly-la-Forêt|8.5279,91359|Maisse|6.0495,91184|Courdimanche-sur-Essonne|3.267,91639|Vayres-sur-Essonne|2.3078,91293|Guigneville-sur-Essonne|5.3141
+91100,Bouville,9,91080|Boissy-le-Cutté|203.9538,91473|Orveau|206.9986,91198|D'Huison-Longueville|213.1447,91639|Vayres-sur-Essonne|211.2312,91629|Valpuiseaux|223.2884,91508|Puiselet-le-Marais|214.0733,91433|Morigny-Champigny|200.6578,91038|Auvers-Saint-Georges|198.3645,91671|Villeneuve-sur-Auvers|200.8976
+91103,Brétigny-sur-Orge,8,91570|Saint-Michel-sur-Orge|3.2235,91494|Le Plessis-Pâté|1.9763,91332|Leudeville|9.5177,91376|Marolles-en-Hurepoix|8.0355,91457|La Norville|5.8548,91552|Saint-Germain-lès-Arpajon|5.2078,91333|Leuville-sur-Orge|4.0298,91347|Longpont-sur-Orge|4.7427
+91105,Breuillet,6,91115|Bruyères-le-Châtel|476.7134,91207|Égly|490.7083,91581|Saint-Yon|283.0434,91106|Breux-Jouy|474.1273,91540|Saint-Chéron|650.5966,91568|Saint-Maurice-Montcouronne|470.9552
+91106,Breux-Jouy,5,91105|Breuillet|473.5479,91581|Saint-Yon|309.3835,91578|Saint-Sulpice-de-Favières|3.3957,91602|Souzy-la-Briche|4.8264,91540|Saint-Chéron|213.8834
+91109,Brières-les-Scellés,5,91226|Étréchy|175.1578,91433|Morigny-Champigny|3.7868,91223|Étampes|5.5957,91081|Boissy-le-Sec|5.4991,91662|Villeconin|7.2694
+91111,Briis-sous-Forges,7,91319|Janvry|176.7124,91243|Fontenay-lès-Briis|2.4398,91186|Courson-Monteloup|4.6043,91634|Vaugrigneuse|3.0561,91249|Forges-les-Bains|2.48,91338|Limours|6.2459,91274|Gometz-la-Ville|5.7647
+91112,Brouy,4,91137|Champmotteux|5.2867,45191|Le Malesherbois|590.1835,91067|Blandy|61.1004,91399|Mespuits|4.6928
+91114,Brunoy,6,94075|Villecresnes|5.3237,94047|Mandres-les-Roses|4.3726,91215|Épinay-sous-Sénart|2.9644,91600|Soisy-sur-Seine|13.85,91421|Montgeron|4.8457,91691|Yerres|3.6596
+91115,Bruyères-le-Châtel,6,91363|Marcoussis|11.0079,91461|Ollainville|339.0695,91207|Égly|5.0228,91105|Breuillet|476.0697,91568|Saint-Maurice-Montcouronne|5.9948,91243|Fontenay-lès-Briis|4.968
+91121,Buno-Bonnevaux,8,91405|Milly-la-Forêt|9.6062,91463|Oncy-sur-École|8.7613,77471|Tousson|7.5317,77328|Nanteau-sur-Essonne|7.3306,91069|Boigneville|3.6596,91507|Prunay-sur-Essonne|1.339,91273|Gironville-sur-Essonne|2.039,91359|Maisse|4.4772
+91122,Bures-sur-Yvette,4,91471|Orsay|3.3136,91692|Les Ulis|2.6023,91275|Gometz-le-Châtel|3.5534,91272|Gif-sur-Yvette|2.9274
+91129,Cerny,8,91315|Itteville|6.7335,91047|Baulne|5.071,91232|La Ferté-Alais|3.922,91198|D'Huison-Longueville|4.4337,91080|Boissy-le-Cutté|3.5277,91671|Villeneuve-sur-Auvers|6.5066,91318|Janville-sur-Juine|7.6251,91095|Bouray-sur-Juine|6.0141
+91130,Chalo-Saint-Mars,8,91556|Saint-Hilaire|591.2877,91223|Étampes|9.6625,91294|Guillerval|17.2892,91131|Chalou-Moulineux|8.6953,91613|Congerville-Thionville|8.9286,91393|Mérobert|5.4669,91495|Plessis-Saint-Benoist|8.124,91098|Boutervilliers|5.9916
+91131,Chalou-Moulineux,5,91130|Chalo-Saint-Mars|8.6953,91294|Guillerval|8.0532,91414|Monnerville|5.5844,91511|Pussay|6.9556,91613|Congerville-Thionville|2.6409
+91132,Chamarande,7,91619|Torfou|372.4489,91330|Lardy|5.2674,91318|Janville-sur-Juine|4.416,91038|Auvers-Saint-Georges|3.2847,91226|Étréchy|165.8413,91378|Mauchamps|4.136,91085|Boissy-sous-Saint-Yon|8.1497
+91135,Champcueil,7,91037|Auvernaux|4.6381,91441|Nainville-les-Roches|5.5265,91599|Soisy-sur-École|8.375,91412|Mondeville|276.5207,91047|Baulne|10.3948,91045|Ballancourt-sur-Essonne|6.6884,91159|Chevannes|277.3817
+91136,Champlan,6,91161|Chilly-Mazarin|4.828,91345|Longjumeau|3.1511,91587|Saulx-les-Chartreux|3.4424,91661|Villebon-sur-Yvette|5.0115,91477|Palaiseau|2.6071,91377|Massy|3.9477
+91137,Champmotteux,6,91273|Gironville-sur-Essonne|5.858,91507|Prunay-sur-Essonne|6.8397,91069|Boigneville|5.7952,45191|Le Malesherbois|590.0468,91112|Brouy|5.2867,91399|Mespuits|4.5561
+91145,Chatignonville,4,91175|Corbreuse|4.3678,91035|Authon-la-Plaine|4.5802,28169|Garancières-en-Beauce|3.8833,78009|Allainville|80.8374
+91148,Chauffour-lès-Étréchy,4,91578|Saint-Sulpice-de-Favières|5.8516,91226|Étréchy|170.5728,91662|Villeconin|4.136,91602|Souzy-la-Briche|4.3291
+91156,Cheptainville,5,91376|Marolles-en-Hurepoix|4.8731,91579|Saint-Vrain|216.3425,91330|Lardy|4.6993,91041|Avrainville|396.4249,91292|Guibeville|2.2112
+91159,Chevannes,6,91179|Le Coudray-Montceaux|286.5968,91037|Auvernaux|284.1313,91135|Champcueil|284.6913,91045|Ballancourt-sur-Essonne|293.4848,91244|Fontenay-le-Vicomte|290.8197,91386|Mennecy|287.6895
+91161,Chilly-Mazarin,5,91689|Wissous|4.276,91432|Morangis|164.5313,91345|Longjumeau|3.4022,91136|Champlan|4.9471,91377|Massy|4.8972
+91174,Corbeil-Essonnes,10,91225|Étiolles|4.6413,91553|Saint-Germain-lès-Corbeil|2.472,91573|Saint-Pierre-du-Perray|3.172,91577|Saintry-sur-Seine|3.7868,91435|Morsang-sur-Seine|6.5468,91179|Le Coudray-Montceaux|6.1075,91468|Ormoy|316.2249,91659|Villabé|4.9568,91340|Lisses|5.6166,91228|Évry|7.5559
+91175,Corbreuse,8,91200|Dourdan|286.048,91284|Les Granges-le-Roi|5.8516,91519|Richarville|7.1455,91035|Authon-la-Plaine|7.3096,91145|Chatignonville|4.3678,78009|Allainville|85.2051,78564|Saint-Martin-de-Bréthencourt|4.3951,78569|Sainte-Mesme|4.4498
+91179,Le Coudray-Montceaux,8,91435|Morsang-sur-Seine|11.8786,77326|Nandy|13.4091,77407|Saint-Fargeau-Ponthierry|5.1306,91037|Auvernaux|4.6912,91159|Chevannes|279.7474,91386|Mennecy|4.5351,91468|Ormoy|324.4808,91174|Corbeil-Essonnes|6.1574
+91180,Courances,5,77065|Cély|5.4846,77185|Fleury-en-Bière|7.3434,91405|Milly-la-Forêt|4.5561,91408|Moigny-sur-École|2.6522,91195|Dannemois|1.9634
+91182,Courcouronnes,4,91228|Évry|6.0914,91340|Lisses|3.4166,91086|Bondoufle|7.5301,91521|Ris-Orangis|7.4303
+91184,Courdimanche-sur-Essonne,4,91099|Boutigny-sur-Essonne|3.2702,91359|Maisse|2.7826,91629|Valpuiseaux|9.5,91639|Vayres-sur-Essonne|3.0288
+91186,Courson-Monteloup,4,91243|Fontenay-lès-Briis|4.4933,91568|Saint-Maurice-Montcouronne|2.2418,91634|Vaugrigneuse|3.3426,91111|Briis-sous-Forges|4.6092
+91191,Crosne,4,91691|Yerres|1.9666,91421|Montgeron|3.1752,94078|Villeneuve-Saint-Georges|1.8379,94074|Valenton|3.5196
+91195,Dannemois,5,91599|Soisy-sur-École|3.8608,77065|Cély|4.7798,91180|Courances|1.965,91408|Moigny-sur-École|3.4617,91654|Videlles|4.0073
+91198,D'Huison-Longueville,7,91232|La Ferté-Alais|5.0759,91293|Guigneville-sur-Essonne|6.1767,91639|Vayres-sur-Essonne|5.5152,91100|Bouville|206.6671,91473|Orveau|2.5395,91080|Boissy-le-Cutté|3.3104,91129|Cerny|3.9139
+91200,Dourdan,7,78349|Longvilliers|459.4822,91546|Saint-Cyr-sous-Dourdan|288.0211,91525|Roinville|267.6484,91284|Les Granges-le-Roi|292.4162,91175|Corbreuse|294.0916,78569|Sainte-Mesme|284.7783,78537|Saint-Arnoult-en-Yvelines|288.7147
+91201,Draveil,8,91657|Vigneux-sur-Seine|5.3382,91421|Montgeron|5.5281,91600|Soisy-sur-Seine|5.2803,91521|Ris-Orangis|5.1724,91286|Grigny|231.995,91687|Viry-Châtillon|6.8204,91326|Juvisy-sur-Orge|6.542,91027|Athis-Mons|8.0097
+91204,Écharcon,5,91340|Lisses|3.9992,91386|Mennecy|2.7616,91244|Fontenay-le-Vicomte|4.9021,91649|Vert-le-Petit|4.5416,91648|Vert-le-Grand|4.0813
+91207,Égly,7,91021|Arpajon|2.8276,91041|Avrainville|399.2493,91085|Boissy-sous-Saint-Yon|4.4611,91581|Saint-Yon|328.8727,91105|Breuillet|493.037,91115|Bruyères-le-Châtel|5.3527,91461|Ollainville|339.0292
+91215,Épinay-sous-Sénart,6,94047|Mandres-les-Roses|5.9063,91097|Boussy-Saint-Antoine|3.8141,91514|Quincy-sous-Sénart|2.3175,91225|Étiolles|10.1839,91600|Soisy-sur-Seine|12.7283,91114|Brunoy|2.5331
+91216,Épinay-sur-Orge,6,91589|Savigny-sur-Orge|4.7057,91667|Villemoisson-sur-Orge|2.7632,91549|Sainte-Geneviève-des-Bois|4.5303,91685|Villiers-sur-Orge|4.1923,91044|Ballainvilliers|3.2171,91345|Longjumeau|3.6822
+91222,Estouches,6,91544|Saint-Cyr-la-Rivière|7.8423,91022|Arrancourt|6.4696,45310|Sermaises|5.4718,45246|Pannecières|1.508,45015|Autruy-sur-Juine|5.5538,91390|Méréville|416.2617
+91223,Étampes,11,91109|Brières-les-Scellés|6.476,91433|Morigny-Champigny|2.8003,91248|La Forêt-Sainte-Croix|8.2221,91469|Ormoy-la-Rivière|4.1022,91079|Boissy-la-Rivière|8.4925,91533|Saclas|10.2113,91294|Guillerval|12.7042,91130|Chalo-Saint-Mars|10.472,91556|Saint-Hilaire|581.8971,91098|Boutervilliers|9.7864,91081|Boissy-le-Sec|10.686
+91225,Étiolles,7,91215|Épinay-sous-Sénart|10.2338,91514|Quincy-sous-Sénart|7.8793,91617|Tigery|4.0282,91553|Saint-Germain-lès-Corbeil|5.401,91174|Corbeil-Essonnes|4.8361,91228|Évry|6.7995,91600|Soisy-sur-Seine|3.2975
+91226,Étréchy,8,91578|Saint-Sulpice-de-Favières|167.8369,91378|Mauchamps|165.9556,91132|Chamarande|167.5215,91038|Auvers-Saint-Georges|172.9047,91433|Morigny-Champigny|175.198,91109|Brières-les-Scellés|176.4936,91662|Villeconin|172.1644,91148|Chauffour-lès-Étréchy|171.3179
+91228,Évry,6,91600|Soisy-sur-Seine|4.4128,91225|Étiolles|4.8087,91174|Corbeil-Essonnes|5.4508,91340|Lisses|6.3971,91182|Courcouronnes|3.4231,91521|Ris-Orangis|5.895
+91232,La Ferté-Alais,5,91047|Baulne|2.5524,91654|Videlles|7.7265,91293|Guigneville-sur-Essonne|1.516,91198|D'Huison-Longueville|3.8785,91129|Cerny|3.9509
+91235,Fleury-Mérogis,7,91687|Viry-Châtillon|5.2111,91286|Grigny|236.6766,91521|Ris-Orangis|9.3535,91086|Bondoufle|5.5748,91494|Le Plessis-Pâté|5.4991,91549|Sainte-Geneviève-des-Bois|3.6162,91434|Morsang-sur-Orge|7.0071
+91240,Fontaine-la-Rivière,4,91079|Boissy-la-Rivière|2.2869,91374|Marolles-en-Beauce|4.0282,91001|Abbéville-la-Rivière|2.2981,91544|Saint-Cyr-la-Rivière|0.7403
+91243,Fontenay-lès-Briis,6,91363|Marcoussis|7.6428,91115|Bruyères-le-Châtel|4.9729,91568|Saint-Maurice-Montcouronne|7.2485,91186|Courson-Monteloup|4.4627,91111|Briis-sous-Forges|2.4285,91319|Janvry|177.2789
+91244,Fontenay-le-Vicomte,5,91204|Écharcon|5.4444,91386|Mennecy|3.9059,91159|Chevannes|284.0186,91045|Ballancourt-sur-Essonne|2.8872,91649|Vert-le-Petit|4.6446
+91247,La Forêt-le-Roi,5,91525|Roinville|30.8495,91081|Boissy-le-Sec|4.6269,91098|Boutervilliers|4.8634,91519|Richarville|3.4697,91284|Les Granges-le-Roi|4.1312
+91248,La Forêt-Sainte-Croix,6,91508|Puiselet-le-Marais|3.4199,91075|Bois-Herpin|2.2225,91374|Marolles-en-Beauce|2.6763,91079|Boissy-la-Rivière|8.2978,91223|Étampes|8.2157,91433|Morigny-Champigny|9.4372
+91249,Forges-les-Bains,5,91111|Briis-sous-Forges|2.4816,91634|Vaugrigneuse|4.8103,91017|Angervilliers|6.8172,78087|Bonnelles|7.1036,91338|Limours|3.6822
+91272,Gif-sur-Yvette,8,91538|Saint-Aubin|251.5373,91534|Saclay|0.0,91471|Orsay|4.5094,91122|Bures-sur-Yvette|2.4897,91275|Gometz-le-Châtel|5.1869,91274|Gometz-la-Ville|5.9948,78575|Saint-Rémy-lès-Chevreuse|5.0807,91679|Villiers-le-Bâcle|4.5384
+91273,Gironville-sur-Essonne,6,91359|Maisse|2.4382,91121|Buno-Bonnevaux|2.039,91507|Prunay-sur-Essonne|2.0406,91137|Champmotteux|5.858,91399|Mespuits|10.4141,91629|Valpuiseaux|9.1266
+91274,Gometz-la-Ville,7,91272|Gif-sur-Yvette|6.447,91275|Gometz-le-Châtel|1.3277,91319|Janvry|174.131,91111|Briis-sous-Forges|5.755,91338|Limours|5.9449,91411|Les Molières|4.4901,78575|Saint-Rémy-lès-Chevreuse|8.7516
+91275,Gometz-le-Châtel,6,91122|Bures-sur-Yvette|3.7144,91692|Les Ulis|4.717,91560|Saint-Jean-de-Beauregard|5.3366,91319|Janvry|172.3221,91274|Gometz-la-Ville|2.0744,91272|Gif-sur-Yvette|5.1193
+91284,Les Granges-le-Roi,5,91525|Roinville|26.9243,91247|La Forêt-le-Roi|4.1103,91519|Richarville|4.4563,91175|Corbreuse|5.8516,91200|Dourdan|288.4974
+91286,Grigny,4,91201|Draveil|232.4601,91521|Ris-Orangis|238.3744,91235|Fleury-Mérogis|237.2269,91687|Viry-Châtillon|235.4599
+91292,Guibeville,4,91376|Marolles-en-Hurepoix|2.6313,91156|Cheptainville|2.245,91041|Avrainville|395.588,91457|La Norville|3.7063
+91293,Guigneville-sur-Essonne,5,91654|Videlles|8.2173,91099|Boutigny-sur-Essonne|5.3141,91639|Vayres-sur-Essonne|5.7518,91198|D'Huison-Longueville|4.4756,91232|La Ferté-Alais|1.516
+91294,Guillerval,6,91223|Étampes|10.5171,91533|Saclas|2.1388,91390|Méréville|424.6512,91414|Monnerville|5.1113,91131|Chalou-Moulineux|8.0515,91130|Chalo-Saint-Mars|16.948
+91312,Igny,5,91645|Verrières-le-Buisson|377.2624,91377|Massy|367.9508,91477|Palaiseau|369.3397,91635|Vauhallan|372.6018,91064|Bièvres|361.6293
+91315,Itteville,6,91649|Vert-le-Petit|6.0254,91045|Ballancourt-sur-Essonne|4.4997,91047|Baulne|7.2742,91129|Cerny|7.6412,91095|Bouray-sur-Juine|3.6677,91579|Saint-Vrain|213.6388
+91318,Janville-sur-Juine,6,91330|Lardy|2.0584,91095|Bouray-sur-Juine|3.246,91129|Cerny|7.6251,91671|Villeneuve-sur-Auvers|9.7735,91038|Auvers-Saint-Georges|4.6526,91132|Chamarande|5.858
+91319,Janvry,6,91560|Saint-Jean-de-Beauregard|171.9133,91363|Marcoussis|169.62,91243|Fontenay-lès-Briis|178.8577,91111|Briis-sous-Forges|175.7581,91274|Gometz-la-Ville|174.0023,91275|Gometz-le-Châtel|173.6836
+91326,Juvisy-sur-Orge,4,91027|Athis-Mons|3.473,91201|Draveil|5.4991,91687|Viry-Châtillon|2.7632,91589|Savigny-sur-Orge|3.0449
+91330,Lardy,7,91156|Cheptainville|4.7637,91579|Saint-Vrain|219.8477,91095|Bouray-sur-Juine|7.2758,91318|Janville-sur-Juine|2.5009,91132|Chamarande|5.2674,91619|Torfou|372.4312,91041|Avrainville|399.93
+91332,Leudeville,6,91494|Le Plessis-Pâté|9.5997,91648|Vert-le-Grand|4.4048,91649|Vert-le-Petit|3.8045,91579|Saint-Vrain|208.7786,91376|Marolles-en-Hurepoix|2.6264,91103|Brétigny-sur-Orge|9.743
+91333,Leuville-sur-Orge,4,91347|Longpont-sur-Orge|5.615,91103|Brétigny-sur-Orge|4.4064,91552|Saint-Germain-lès-Arpajon|2.8244,91339|Linas|2.4285
+91338,Limours,6,91274|Gometz-la-Ville|6.0688,91111|Briis-sous-Forges|5.3575,91249|Forges-les-Bains|5.0775,78087|Bonnelles|5.2593,91482|Pecqueuse|1.8845,91411|Les Molières|4.1183
+91339,Linas,6,91425|Montlhéry|2.134,91347|Longpont-sur-Orge|2.9467,91333|Leuville-sur-Orge|2.163,91552|Saint-Germain-lès-Arpajon|6.5146,91461|Ollainville|332.4358,91363|Marcoussis|4.136
+91340,Lisses,8,91228|Évry|7.2549,91174|Corbeil-Essonnes|7.955,91659|Villabé|4.0395,91386|Mennecy|5.5056,91204|Écharcon|3.8689,91648|Vert-le-Grand|7.1101,91086|Bondoufle|4.8457,91182|Courcouronnes|5.2883
+91345,Longjumeau,7,91161|Chilly-Mazarin|2.8147,91432|Morangis|164.1177,91589|Savigny-sur-Orge|5.8902,91216|Épinay-sur-Orge|3.6307,91044|Ballainvilliers|3.3716,91587|Saulx-les-Chartreux|4.3195,91136|Champlan|2.8501
+91347,Longpont-sur-Orge,9,91044|Ballainvilliers|5.7856,91685|Villiers-sur-Orge|3.2798,91549|Sainte-Geneviève-des-Bois|6.0721,91570|Saint-Michel-sur-Orge|4.107,91103|Brétigny-sur-Orge|5.7116,91333|Leuville-sur-Orge|5.5989,91339|Linas|3.584,91425|Montlhéry|2.0761,91665|La Ville-du-Bois|5.8741
+91359,Maisse,6,91099|Boutigny-sur-Essonne|6.0527,91405|Milly-la-Forêt|7.5897,91121|Buno-Bonnevaux|4.4772,91273|Gironville-sur-Essonne|2.4382,91629|Valpuiseaux|6.7174,91184|Courdimanche-sur-Essonne|2.7826
+91363,Marcoussis,10,91666|Villejust|8.5601,91458|Nozay|189.6145,91425|Montlhéry|3.8978,91339|Linas|4.3565,91461|Ollainville|335.2537,91115|Bruyères-le-Châtel|11.2026,91243|Fontenay-lès-Briis|7.7892,91319|Janvry|169.3304,91560|Saint-Jean-de-Beauregard|8.8417,91692|Les Ulis|7.6637
+91374,Marolles-en-Beauce,5,91248|La Forêt-Sainte-Croix|2.6763,91075|Bois-Herpin|4.4643,91001|Abbéville-la-Rivière|5.7164,91240|Fontaine-la-Rivière|4.0298,91079|Boissy-la-Rivière|5.6214
+91376,Marolles-en-Hurepoix,6,91103|Brétigny-sur-Orge|8.2109,91332|Leudeville|2.6876,91579|Saint-Vrain|213.6066,91156|Cheptainville|4.9825,91292|Guibeville|2.5975,91457|La Norville|6.4438
+91377,Massy,7,92002|Antony|6.542,91689|Wissous|5.129,91161|Chilly-Mazarin|4.6333,91136|Champlan|5.4315,91477|Palaiseau|3.4955,91312|Igny|369.0001,91645|Verrières-le-Buisson|2.8534
+91378,Mauchamps,4,91085|Boissy-sous-Saint-Yon|6.9701,91132|Chamarande|4.2052,91226|Étréchy|164.66,91578|Saint-Sulpice-de-Favières|1.8813
+91386,Mennecy,7,91659|Villabé|6.4052,91468|Ormoy|324.2764,91179|Le Coudray-Montceaux|4.6832,91159|Chevannes|280.4362,91244|Fontenay-le-Vicomte|3.6548,91204|Écharcon|2.9757,91340|Lisses|5.7389
+91390,Méréville,7,91294|Guillerval|422.9823,91533|Saclas|421.1347,91544|Saint-Cyr-la-Rivière|418.7143,91222|Estouches|414.5461,45015|Autruy-sur-Juine|413.5258,91016|Angerville|567.5867,91414|Monnerville|423.8948
+91393,Mérobert,5,91495|Plessis-Saint-Benoist|3.3169,91130|Chalo-Saint-Mars|5.4669,91613|Congerville-Thionville|3.4617,28294|Oysonville|5.8677,91547|Saint-Escobille|5.4267
+91399,Mespuits,8,91629|Valpuiseaux|6.0012,91273|Gironville-sur-Essonne|10.4141,91137|Champmotteux|4.5561,91112|Brouy|4.6928,91067|Blandy|56.4075,91526|Roinvilliers|2.3158,91075|Bois-Herpin|3.9654,91508|Puiselet-le-Marais|8.1465
+91405,Milly-la-Forêt,9,91180|Courances|4.5142,77185|Fleury-en-Bière|11.2429,77006|Arbonne-la-Forêt|8.3943,77339|Noisy-sur-École|5.8467,91463|Oncy-sur-École|3.1463,91121|Buno-Bonnevaux|9.5772,91359|Maisse|7.5205,91099|Boutigny-sur-Essonne|8.4539,91408|Moigny-sur-École|3.8753
+91408,Moigny-sur-École,5,91195|Dannemois|3.407,91180|Courances|2.6538,91405|Milly-la-Forêt|3.8431,91099|Boutigny-sur-Essonne|7.2646,91654|Videlles|5.9401
+91411,Les Molières,5,78575|Saint-Rémy-lès-Chevreuse|4.4836,91274|Gometz-la-Ville|4.5126,91338|Limours|4.0218,91482|Pecqueuse|4.7958,91093|Boullay-les-Troux|2.0793
+91412,Mondeville,4,91135|Champcueil|275.2735,91599|Soisy-sur-École|276.3839,91654|Videlles|281.5097,91047|Baulne|282.2805
+91414,Monnerville,5,91294|Guillerval|5.1113,91390|Méréville|425.6055,91016|Angerville|265.2183,91511|Pussay|3.9525,91131|Chalou-Moulineux|5.5844
+91421,Montgeron,7,91191|Crosne|2.3802,91691|Yerres|2.8244,91114|Brunoy|5.3607,91600|Soisy-sur-Seine|10.1871,91201|Draveil|5.2449,91657|Vigneux-sur-Seine|4.6623,94078|Villeneuve-Saint-Georges|3.5615
+91425,Montlhéry,5,91347|Longpont-sur-Orge|2.0278,91339|Linas|1.6721,91363|Marcoussis|3.0417,91458|Nozay|186.9317,91665|La Ville-du-Bois|5.2835
+91432,Morangis,5,91479|Paray-Vieille-Poste|143.5857,91589|Savigny-sur-Orge|152.8346,91345|Longjumeau|149.6223,91161|Chilly-Mazarin|148.1771,91689|Wissous|147.9518
+91433,Morigny-Champigny,7,91038|Auvers-Saint-Georges|6.4229,91100|Bouville|200.5114,91508|Puiselet-le-Marais|13.0325,91248|La Forêt-Sainte-Croix|9.3406,91223|Étampes|2.8196,91109|Brières-les-Scellés|3.8318,91226|Étréchy|173.4825
+91434,Morsang-sur-Orge,5,91687|Viry-Châtillon|2.4591,91235|Fleury-Mérogis|6.4535,91549|Sainte-Geneviève-des-Bois|3.1302,91667|Villemoisson-sur-Orge|1.6625,91589|Savigny-sur-Orge|4.3356
+91435,Morsang-sur-Seine,5,91573|Saint-Pierre-du-Perray|6.5999,77326|Nandy|6.8381,91179|Le Coudray-Montceaux|11.5712,91174|Corbeil-Essonnes|6.8204,91577|Saintry-sur-Seine|2.958
+91441,Nainville-les-Roches,5,77407|Saint-Fargeau-Ponthierry|4.9648,77435|Saint-Sauveur-sur-École|5.504,91599|Soisy-sur-École|3.0513,91135|Champcueil|5.4541,91037|Auvernaux|2.6345
+91457,La Norville,6,91103|Brétigny-sur-Orge|5.8258,91376|Marolles-en-Hurepoix|6.4068,91292|Guibeville|3.7449,91041|Avrainville|396.1127,91021|Arpajon|1.0332,91552|Saint-Germain-lès-Arpajon|2.134
+91458,Nozay,5,91587|Saulx-les-Chartreux|188.3351,91665|La Ville-du-Bois|192.1879,91425|Montlhéry|187.944,91363|Marcoussis|189.9444,91666|Villejust|196.4237
+91461,Ollainville,6,91339|Linas|329.6967,91552|Saint-Germain-lès-Arpajon|335.3985,91021|Arpajon|335.3712,91207|Égly|337.7289,91115|Bruyères-le-Châtel|339.2271,91363|Marcoussis|334.8513
+91463,Oncy-sur-École,4,91405|Milly-la-Forêt|3.1366,77339|Noisy-sur-École|3.333,77471|Tousson|4.6591,91121|Buno-Bonnevaux|8.7532
+91468,Ormoy,4,91174|Corbeil-Essonnes|314.6429,91179|Le Coudray-Montceaux|324.3134,91386|Mennecy|345.1174,91659|Villabé|320.8936
+91469,Ormoy-la-Rivière,2,91079|Boissy-la-Rivière|3.6951,91223|Étampes|3.9155
+91471,Orsay,6,91477|Palaiseau|6.0801,91661|Villebon-sur-Yvette|4.0427,91692|Les Ulis|4.0411,91122|Bures-sur-Yvette|2.0841,91272|Gif-sur-Yvette|5.5426,91534|Saclay|0.0
+91473,Orveau,3,91198|D'Huison-Longueville|2.7037,91100|Bouville|206.3437,91080|Boissy-le-Cutté|3.3635
+91477,Palaiseau,7,91377|Massy|3.8206,91136|Champlan|3.9783,91661|Villebon-sur-Yvette|2.6168,91471|Orsay|5.3334,91534|Saclay|0.0,91635|Vauhallan|5.5313,91312|Igny|369.8241
+91479,Paray-Vieille-Poste,8,94073|Thiais|8.5617,94054|Orly|7.4303,94077|Villeneuve-le-Roi|6.5162,91027|Athis-Mons|2.6812,91589|Savigny-sur-Orge|4.4354,91432|Morangis|158.3015,91689|Wissous|9.2618,94065|Rungis|5.7631
+91482,Pecqueuse,6,91093|Boullay-les-Troux|6.5307,91411|Les Molières|4.8345,91338|Limours|2.1549,78087|Bonnelles|5.6665,78120|Bullion|6.3794,78162|Choisel|9.2296
+91494,Le Plessis-Pâté,7,91235|Fleury-Mérogis|5.0904,91086|Bondoufle|6.6884,91648|Vert-le-Grand|10.4897,91332|Leudeville|9.4533,91103|Brétigny-sur-Orge|1.9505,91570|Saint-Michel-sur-Orge|3.407,91549|Sainte-Geneviève-des-Bois|4.5754
+91495,Plessis-Saint-Benoist,6,91098|Boutervilliers|5.4863,91130|Chalo-Saint-Mars|8.124,91393|Mérobert|3.3169,91547|Saint-Escobille|3.7095,91035|Authon-la-Plaine|4.8441,91519|Richarville|3.4569
+91507,Prunay-sur-Essonne,4,91121|Buno-Bonnevaux|1.339,91069|Boigneville|2.8292,91137|Champmotteux|6.8059,91273|Gironville-sur-Essonne|2.0406
+91508,Puiselet-le-Marais,6,91100|Bouville|214.1281,91629|Valpuiseaux|6.6369,91399|Mespuits|8.1465,91075|Bois-Herpin|5.6424,91248|La Forêt-Sainte-Croix|3.4199,91433|Morigny-Champigny|13.0148
+91511,Pussay,5,91131|Chalou-Moulineux|6.9556,91414|Monnerville|3.9525,91016|Angerville|261.2657,28183|Gommerville|237.5955,91613|Congerville-Thionville|5.092
+91514,Quincy-sous-Sénart,7,91097|Boussy-Saint-Antoine|2.9805,91631|Varennes-Jarcy|4.7781,77122|Combs-la-Ville|3.6162,91617|Tigery|4.6124,91225|Étiolles|7.8665,91600|Soisy-sur-Seine|10.4108,91215|Épinay-sous-Sénart|2.3561
+91519,Richarville,6,91284|Les Granges-le-Roi|4.4563,91247|La Forêt-le-Roi|3.4697,91098|Boutervilliers|7.2195,91495|Plessis-Saint-Benoist|3.4553,91035|Authon-la-Plaine|4.9793,91175|Corbreuse|7.1455
+91521,Ris-Orangis,7,91201|Draveil|5.1966,91600|Soisy-sur-Seine|6.3151,91228|Évry|4.2117,91182|Courcouronnes|5.3092,91086|Bondoufle|7.3933,91235|Fleury-Mérogis|8.7613,91286|Grigny|237.7114
+91525,Roinville,7,91630|Le Val-Saint-Germain|32.7067,91593|Sermaise|218.0838,91081|Boissy-le-Sec|30.3007,91247|La Forêt-le-Roi|31.1794,91284|Les Granges-le-Roi|27.2414,91200|Dourdan|262.7495,91546|Saint-Cyr-sous-Dourdan|30.8189
+91526,Roinvilliers,5,91075|Bois-Herpin|1.9505,91399|Mespuits|2.3158,91067|Blandy|58.4015,45263|Rouvres-Saint-Jean|5.1097,91001|Abbéville-la-Rivière|6.1413
+91533,Saclas,5,91223|Étampes|9.3052,91079|Boissy-la-Rivière|3.9107,91544|Saint-Cyr-la-Rivière|2.4205,91390|Méréville|422.8037,91294|Guillerval|2.1388
+91534,Saclay,9,91064|Bièvres|0.0,91635|Vauhallan|0.0,91477|Palaiseau|0.0,91471|Orsay|0.0,91272|Gif-sur-Yvette|0.0,91538|Saint-Aubin|0.0,91679|Villiers-le-Bâcle|0.0,78620|Toussus-le-Noble|0.0,78322|Jouy-en-Josas|0.0
+91538,Saint-Aubin,3,91534|Saclay|0.0,91272|Gif-sur-Yvette|249.1264,91679|Villiers-le-Bâcle|246.5097
+91540,Saint-Chéron,7,91105|Breuillet|649.8822,91106|Breux-Jouy|236.889,91602|Souzy-la-Briche|239.7794,91662|Villeconin|242.0357,91593|Sermaise|453.1817,91630|Le Val-Saint-Germain|249.5561,91568|Saint-Maurice-Montcouronne|236.263
+91544,Saint-Cyr-la-Rivière,7,91079|Boissy-la-Rivière|2.8888,91240|Fontaine-la-Rivière|0.7403,91001|Abbéville-la-Rivière|2.7359,91022|Arrancourt|2.3545,91222|Estouches|7.8906,91390|Méréville|420.3832,91533|Saclas|2.4205
+91546,Saint-Cyr-sous-Dourdan,5,91017|Angervilliers|3.9445,91630|Le Val-Saint-Germain|2.2901,91525|Roinville|33.0527,91200|Dourdan|283.6372,78349|Longvilliers|289.0237
+91547,Saint-Escobille,6,91495|Plessis-Saint-Benoist|6.7287,91393|Mérobert|5.4508,28294|Oysonville|5.0131,28363|Sainville|8.9496,28169|Garancières-en-Beauce|6.8011,91035|Authon-la-Plaine|2.7632
+91549,Sainte-Geneviève-des-Bois,8,91667|Villemoisson-sur-Orge|3.0658,91434|Morsang-sur-Orge|3.79,91235|Fleury-Mérogis|3.3233,91494|Le Plessis-Pâté|4.1634,91570|Saint-Michel-sur-Orge|4.5046,91347|Longpont-sur-Orge|4.6333,91685|Villiers-sur-Orge|5.3913,91216|Épinay-sur-Orge|4.7154
+91552,Saint-Germain-lès-Arpajon,6,91333|Leuville-sur-Orge|2.8357,91103|Brétigny-sur-Orge|5.2706,91457|La Norville|2.929,91021|Arpajon|2.3834,91461|Ollainville|333.5011,91339|Linas|4.5786
+91553,Saint-Germain-lès-Corbeil,4,91617|Tigery|2.7616,91573|Saint-Pierre-du-Perray|2.2322,91174|Corbeil-Essonnes|2.5524,91225|Étiolles|5.7808
+91556,Saint-Hilaire,3,91223|Étampes|580.8042,91130|Chalo-Saint-Mars|591.7976,91098|Boutervilliers|589.242
+91560,Saint-Jean-de-Beauregard,4,91692|Les Ulis|3.2847,91363|Marcoussis|8.5054,91319|Janvry|171.9632,91275|Gometz-le-Châtel|4.3983
+91568,Saint-Maurice-Montcouronne,7,91186|Courson-Monteloup|2.2418,91243|Fontenay-lès-Briis|7.2919,91115|Bruyères-le-Châtel|6.0592,91105|Breuillet|470.3759,91540|Saint-Chéron|213.8014,91630|Le Val-Saint-Germain|5.2851,91634|Vaugrigneuse|3.1833
+91570,Saint-Michel-sur-Orge,4,91549|Sainte-Geneviève-des-Bois|3.6291,91494|Le Plessis-Pâté|3.5309,91103|Brétigny-sur-Orge|4.2615,91347|Longpont-sur-Orge|3.2042
+91573,Saint-Pierre-du-Perray,8,91617|Tigery|4.4048,77251|Lieusaint|376.461,77445|Savigny-le-Temple|10.7456,77326|Nandy|7.9646,91435|Morsang-sur-Seine|6.4342,91577|Saintry-sur-Seine|3.6741,91174|Corbeil-Essonnes|3.3635,91553|Saint-Germain-lès-Corbeil|2.282
+91577,Saintry-sur-Seine,3,91573|Saint-Pierre-du-Perray|3.8544,91435|Morsang-sur-Seine|2.9837,91174|Corbeil-Essonnes|4.0749
+91578,Saint-Sulpice-de-Favières,7,91581|Saint-Yon|312.7809,91085|Boissy-sous-Saint-Yon|7.7731,91378|Mauchamps|1.8797,91226|Étréchy|166.5397,91148|Chauffour-lès-Étréchy|5.8516,91602|Souzy-la-Briche|3.1076,91106|Breux-Jouy|3.3973
+91579,Saint-Vrain,7,91332|Leudeville|209.5382,91649|Vert-le-Petit|208.975,91315|Itteville|213.9028,91095|Bouray-sur-Juine|222.8652,91330|Lardy|221.1657,91156|Cheptainville|217.6123,91376|Marolles-en-Hurepoix|214.9601
+91581,Saint-Yon,5,91207|Égly|338.1538,91085|Boissy-sous-Saint-Yon|340.5453,91578|Saint-Sulpice-de-Favières|324.9684,91106|Breux-Jouy|321.5727,91105|Breuillet|284.3888
+91587,Saulx-les-Chartreux,7,91136|Champlan|4.0475,91345|Longjumeau|3.3603,91044|Ballainvilliers|4.5593,91665|La Ville-du-Bois|4.9294,91458|Nozay|188.2482,91666|Villejust|2.8807,91661|Villebon-sur-Yvette|5.0549
+91589,Savigny-sur-Orge,9,91479|Paray-Vieille-Poste|4.334,91027|Athis-Mons|4.1151,91326|Juvisy-sur-Orge|2.9242,91687|Viry-Châtillon|5.1354,91434|Morsang-sur-Orge|3.9075,91667|Villemoisson-sur-Orge|3.9075,91216|Épinay-sur-Orge|3.1849,91345|Longjumeau|6.2443,91432|Morangis|162.1012
+91593,Sermaise,6,91540|Saint-Chéron|454.0813,91602|Souzy-la-Briche|251.3297,91662|Villeconin|250.2482,91081|Boissy-le-Sec|250.4268,91525|Roinville|218.7066,91630|Le Val-Saint-Germain|240.9671
+91599,Soisy-sur-École,8,91441|Nainville-les-Roches|3.2863,77435|Saint-Sauveur-sur-École|5.8773,77412|Saint-Germain-sur-École|2.4864,77065|Cély|5.2577,91195|Dannemois|3.7932,91654|Videlles|6.6659,91412|Mondeville|279.7233,91135|Champcueil|8.3605
+91600,Soisy-sur-Seine,8,91114|Brunoy|13.2159,91215|Épinay-sous-Sénart|13.4927,91514|Quincy-sous-Sénart|11.6983,91225|Étiolles|4.3967,91228|Évry|7.6009,91521|Ris-Orangis|5.8516,91201|Draveil|4.7942,91421|Montgeron|9.9844
+91602,Souzy-la-Briche,6,91106|Breux-Jouy|4.828,91578|Saint-Sulpice-de-Favières|3.1076,91148|Chauffour-lès-Étréchy|4.3291,91662|Villeconin|2.8324,91593|Sermaise|251.7851,91540|Saint-Chéron|217.6268
+91613,Congerville-Thionville,6,91393|Mérobert|3.4617,91130|Chalo-Saint-Mars|8.9286,91131|Chalou-Moulineux|2.6409,91511|Pussay|5.092,28183|Gommerville|233.6558,28294|Oysonville|2.4703
+91617,Tigery,6,91514|Quincy-sous-Sénart|4.5174,77122|Combs-la-Ville|6.4293,77251|Lieusaint|374.7583,91573|Saint-Pierre-du-Perray|3.93,91553|Saint-Germain-lès-Corbeil|2.3191,91225|Étiolles|4.0201
+91619,Torfou,4,91041|Avrainville|703.235,91330|Lardy|371.0327,91132|Chamarande|370.7656,91085|Boissy-sous-Saint-Yon|365.9793
+91629,Valpuiseaux,7,91639|Vayres-sur-Essonne|10.9001,91184|Courdimanche-sur-Essonne|9.5,91359|Maisse|6.7174,91273|Gironville-sur-Essonne|9.1266,91399|Mespuits|6.0012,91508|Puiselet-le-Marais|6.6369,91100|Bouville|224.3973
+91630,Le Val-Saint-Germain,7,91634|Vaugrigneuse|6.7432,91568|Saint-Maurice-Montcouronne|5.2851,91540|Saint-Chéron|218.7839,91593|Sermaise|240.8512,91525|Roinville|34.9324,91546|Saint-Cyr-sous-Dourdan|2.6908,91017|Angervilliers|3.7385
+91631,Varennes-Jarcy,5,77053|Brie-Comte-Robert|7.0988,77122|Combs-la-Ville|1.957,91514|Quincy-sous-Sénart|4.1956,91097|Boussy-Saint-Antoine|3.4923,94056|Périgny|317.5107
+91634,Vaugrigneuse,6,91111|Briis-sous-Forges|3.0883,91186|Courson-Monteloup|3.3072,91568|Saint-Maurice-Montcouronne|3.1752,91630|Le Val-Saint-Germain|6.7335,91017|Angervilliers|6.8558,91249|Forges-les-Bains|4.9471
+91635,Vauhallan,4,91064|Bièvres|203.3551,91312|Igny|372.7885,91477|Palaiseau|5.0244,91534|Saclay|0.0
+91639,Vayres-sur-Essonne,6,91293|Guigneville-sur-Essonne|5.6762,91099|Boutigny-sur-Essonne|3.5116,91184|Courdimanche-sur-Essonne|4.0491,91629|Valpuiseaux|11.877,91100|Bouville|214.1023,91198|D'Huison-Longueville|4.3018
+91645,Verrières-le-Buisson,5,92019|Châtenay-Malabry|3.613,92002|Antony|4.4788,91377|Massy|3.3909,91312|Igny|376.8987,91064|Bièvres|197.1929
+91648,Vert-le-Grand,6,91086|Bondoufle|5.8773,91340|Lisses|7.2388,91204|Écharcon|4.0829,91649|Vert-le-Petit|3.8351,91332|Leudeville|3.1093,91494|Le Plessis-Pâté|8.9463
+91649,Vert-le-Petit,7,91648|Vert-le-Grand|3.6596,91204|Écharcon|6.7013,91244|Fontenay-le-Vicomte|4.6768,91045|Ballancourt-sur-Essonne|3.9574,91315|Itteville|7.0296,91579|Saint-Vrain|208.0335,91332|Leudeville|3.9043
+91654,Videlles,8,91599|Soisy-sur-École|6.6659,91195|Dannemois|3.9509,91408|Moigny-sur-École|5.9401,91099|Boutigny-sur-Essonne|7.0312,91293|Guigneville-sur-Essonne|8.2125,91232|La Ferté-Alais|7.7216,91047|Baulne|7.3418,91412|Mondeville|282.7425
+91657,Vigneux-sur-Seine,6,94078|Villeneuve-Saint-Georges|4.4112,91421|Montgeron|5.1515,91201|Draveil|4.9133,91027|Athis-Mons|8.4056,94077|Villeneuve-le-Roi|6.1396,94001|Ablon-sur-Seine|6.6804
+91659,Villabé,4,91174|Corbeil-Essonnes|5.4959,91468|Ormoy|321.0609,91386|Mennecy|5.961,91340|Lisses|4.07
+91661,Villebon-sur-Yvette,6,91136|Champlan|6.2668,91587|Saulx-les-Chartreux|6.1413,91666|Villejust|4.4466,91692|Les Ulis|6.5339,91471|Orsay|3.1318,91477|Palaiseau|3.1221
+91662,Villeconin,7,91602|Souzy-la-Briche|2.8324,91148|Chauffour-lès-Étréchy|4.136,91226|Étréchy|171.0652,91109|Brières-les-Scellés|7.2678,91081|Boissy-le-Sec|5.7534,91593|Sermaise|250.5942,91540|Saint-Chéron|219.8831
+91665,La Ville-du-Bois,5,91587|Saulx-les-Chartreux|4.6027,91044|Ballainvilliers|3.7321,91347|Longpont-sur-Orge|4.7781,91425|Montlhéry|3.8093,91458|Nozay|189.6821
+91666,Villejust,5,91661|Villebon-sur-Yvette|4.3999,91587|Saulx-les-Chartreux|2.855,91458|Nozay|195.5176,91363|Marcoussis|7.6106,91692|Les Ulis|6.5178
+91667,Villemoisson-sur-Orge,4,91589|Savigny-sur-Orge|4.0201,91434|Morsang-sur-Orge|2.0712,91549|Sainte-Geneviève-des-Bois|2.9596,91216|Épinay-sur-Orge|2.9966
+91671,Villeneuve-sur-Auvers,5,91129|Cerny|6.5066,91080|Boissy-le-Cutté|3.1559,91100|Bouville|200.2442,91038|Auvers-Saint-Georges|5.2658,91318|Janville-sur-Juine|9.7494
+91679,Villiers-le-Bâcle,6,91534|Saclay|0.0,91538|Saint-Aubin|250.3657,91272|Gif-sur-Yvette|4.4176,78575|Saint-Rémy-lès-Chevreuse|7.2131,78143|Châteaufort|3.679,78620|Toussus-le-Noble|2.7134
+91685,Villiers-sur-Orge,4,91216|Épinay-sur-Orge|5.8661,91549|Sainte-Geneviève-des-Bois|5.3672,91347|Longpont-sur-Orge|4.0314,91044|Ballainvilliers|3.0401
+91687,Viry-Châtillon,6,91326|Juvisy-sur-Orge|3.2396,91201|Draveil|7.4352,91286|Grigny|233.9375,91235|Fleury-Mérogis|5.1354,91434|Morsang-sur-Orge|2.4848,91589|Savigny-sur-Orge|5.8307
+91689,Wissous,7,94065|Rungis|3.5856,91479|Paray-Vieille-Poste|9.4533,91432|Morangis|159.6807,91161|Chilly-Mazarin|3.4102,91377|Massy|4.4273,92002|Antony|7.4625,94034|Fresnes|161.1018
+91691,Yerres,6,94075|Villecresnes|5.7888,91114|Brunoy|3.7305,91421|Montgeron|2.8566,91191|Crosne|1.9698,94074|Valenton|5.0727,94044|Limeil-Brévannes|4.5319
+91692,Les Ulis,7,91471|Orsay|3.5921,91661|Villebon-sur-Yvette|7.0489,91666|Villejust|5.4621,91363|Marcoussis|7.5736,91560|Saint-Jean-de-Beauregard|3.5389,91275|Gometz-le-Châtel|5.3108,91122|Bures-sur-Yvette|3.6468
